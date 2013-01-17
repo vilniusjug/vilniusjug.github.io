@@ -25,3 +25,24 @@ img {
   margin: auto;
 }
 
+.row {
+  padding-top: 10px;
+  width: 840px;
+  height: 500px;
+  margin: 0 auto;
+  clear: both;
+}
+
+.column {
+  width: 65%;
+  float: left;
+  display: block;
+  /*margin: 0 0;*/
+}
+
+.column-sponsor {
+  width: 35%;
+  float: left;
+  display: block;
+  /*margin: 0 0;*/
+}
