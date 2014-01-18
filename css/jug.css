@@ -4,7 +4,7 @@
 }
 
 .header > a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 img {
@@ -43,8 +43,25 @@ img {
   display: block;
 }
 
-.column-sponsor {
+.column-right {
   width: 35%;
   float: left;
   display: block;
+}
+
+.sponsor-box {
+  width: 200px;
+  height: 80px;
+  position: relative;
+}
+
+.sponsor-box img {
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
 }
