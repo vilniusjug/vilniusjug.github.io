@@ -3,6 +3,10 @@
   font-family: sans-serif;
 }
 
+.header > a {
+    text-decoration: none;
+}
+
 img {
   vertical-align: middle;;
 }
