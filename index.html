@@ -6,7 +6,7 @@
   <title>Vilnius JUG</title>
   <link rel="stylesheet" href="css/jug.css">
   <link rel="icon" type="image/x-icon" href="jug.png"/>
-</head>
+  </head>
 <body>
 <div class="wrapper">
   <div class="title">
@@ -44,7 +44,7 @@
   </div>
   <br>
 </div>
-<div class="row">
+<div class="row" ng-app='vilniusJugApp' ng-controller="EventsController">
   <div class="column">
     <h3 class="center">Vilnius JUG meetings</h3>
     <table class="center">
@@ -54,245 +54,20 @@
         <td>Registration link</td>
       </tr>
       <tr>
-        <td colspan="3"><strong>Upcoming events</strong>
+        <td colspan="3"><strong>Upcoming events</strong></td>
+      </tr>
+      <tr ng-repeat="event in upcoming">
+        <td>{{event.date}} {{event.time}}</td>
+        <td><a href="{{event.venue.map_url}}">{{event.venue.title}}</a></td>
+        <td><a href="{{event.registration.url}}">{{event.registration.title}}</a></td>
       </tr>
       <tr>
-        <td>2015-08-12 19:00</td>
-        <td></td>
-        <td><a href="http://vilniusjug43.eventbrite.com">Eventbrite</a></td>
+        <td colspan="3"><strong>Past events</strong></td>
       </tr>
-      
-      <tr>
-        <td colspan="3"><strong>Past events</strong>
-      </tr>
-      <tr>
-        <td>2015-07-08 19:00</td>
-        <td>Būsi trečias</td>
-        <td><a href="http://vilniusjug42.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2015-06-16 19:00</td>
-        <td></td>
-        <td><a href="http://vilniusjug41.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2015-05-13 19:00</td>
-        <td></td>
-        <td><a href="http://vilniusjug40.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2015-04-15 19:00 (Vilnius Scala)</td>
-        <td></td>
-        <td><a href="http://vilniusjug39.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2015-03-25 19:00</td>
-        <td></td>
-        <td><a href="http://vilniusjug38.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2015-02-11 19:00 (Vilnius Scala)</td>
-        <td>
-          <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=R%C5%ABdnink%C5%B3+g.+2,+Vilnius,+Vilnius+County,+Lithuania&aq=t&sll=37.0625,-95.677068&sspn=49.624204,107.138672&vpsrc=6&t=h&ie=UTF8&hq=&hnear=R%C5%ABdnink%C5%B3+gatv%C4%97+2,+Vilnius,+Vilniaus+miesto+savivaldyb%C4%97+01135,+Lithuania&ll=54.677634,25.286654&spn=0.00223,0.006539&z=18&iwloc=A">Wix.com</a>
-        </td>
-        <td><a href="http://vilniusjug37.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2015-01-29 19:00</td>
-        <td>Radisson Blu Hotel Lietuva, Zeta room</td>
-        <td><a href="http://vilniusjug36.eventbrite.com">Eventbrite</a></td>
-      </tr> 
-      <tr>
-        <td>2014-12-10 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug35.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-11-18 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug34.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-10-08 19:00 (Vilnius Scala)</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug33.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-09-24 18:45 (Vilnius Clojure)</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilnius-clojure-2.eventbrite.com/">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-09-10 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug32.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-08-13 19:00</td>
-        <td><a href="https://www.facebook.com/pages/7-Fridays-bar-Vilnius/178339612296305">7 Fridays pub</a></td>
-        <td><a href="http://vilniusjug31.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-07-28 19:00 (Virtual JUG broadcast)</td>
-        <td>
-          <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=R%C5%ABdnink%C5%B3+g.+2,+Vilnius,+Vilnius+County,+Lithuania&aq=t&sll=37.0625,-95.677068&sspn=49.624204,107.138672&vpsrc=6&t=h&ie=UTF8&hq=&hnear=R%C5%ABdnink%C5%B3+gatv%C4%97+2,+Vilnius,+Vilniaus+miesto+savivaldyb%C4%97+01135,+Lithuania&ll=54.677634,25.286654&spn=0.00223,0.006539&z=18&iwloc=A">Wix.com</a>
-        </td>
-        <td><a href="http://vilniusjug30.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-07-09 19:00</td>
-        <td><a href="https://www.facebook.com/pages/7-Fridays-bar-Vilnius/178339612296305">7 Fridays pub</a></td>
-        <td><a href="http://vilniusjug29.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-06-18 19:00 (Vilnius Clojure)</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilnius-clojure-1.eventbrite.com/">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-06-11 19:00 (Vilnius Scala)</td>
-        <td>
-          <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=R%C5%ABdnink%C5%B3+g.+2,+Vilnius,+Vilnius+County,+Lithuania&aq=t&sll=37.0625,-95.677068&sspn=49.624204,107.138672&vpsrc=6&t=h&ie=UTF8&hq=&hnear=R%C5%ABdnink%C5%B3+gatv%C4%97+2,+Vilnius,+Vilniaus+miesto+savivaldyb%C4%97+01135,+Lithuania&ll=54.677634,25.286654&spn=0.00223,0.006539&z=18&iwloc=A">Wix.com</a>
-        </td>
-        <td><a href="http://vilniusjug28.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-05-14 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug27.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-04-09 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug26.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-03-12 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug25.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-02-12 19:00</td>
-        <td>
-          <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=3+Maironio+gatv%C4%97,+Vilnius,+Lithuania&aq=1&oq=maironio+3&sll=37.0625,-95.677068&sspn=60.54737,135.263672&vpsrc=0&t=h&ie=UTF8&hq=&hnear=Maironio+gatv%C4%97+3,+Vilnius,+Vilniaus+miesto+savivaldyb%C4%97+01124,+Lithuania&z=16&iwloc=A">
-              VDA DIC 112 auditorija</a>
-        </td>
-        <td><a href="http://vilniusjug24.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2014-01-08 19:00</td>
-        <td>Bambalynė</td>
-        <td><a href="http://vilniusjug23.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-12-11 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug22.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-11-18 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug21.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-10-09 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug20.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-09-11 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug19.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-08-15 19:00</td>
-        <td><a href="http://www.busitrecias.lt">Būsi trečias</a></td>
-        <td><a href="http://vilniusjug18.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-07-08 19:00</td>
-        <td><a href="http://www.busitrecias.lt">Būsi trečias</a></td>
-        <td><a href="http://vilniusjug17.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-06-12 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug16.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-05-08 19:00</td>
-        <td><a href="http://www.busitrecias.lt">Būsi trečias</a></td>
-        <td><a href="http://vilniusjug15.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-04-10 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug14.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-03-13 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug13.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-02-13 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug12.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2013-01-09 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug11.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-12-12 19:00</td>
-        <td>Mega Hub Vilnius</td>
-        <td><a href="http://vilniusjug10.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-11-14 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug9.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-10-10 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug8.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-09-12 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug7.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-08-08 19:00</td>
-        <td><a href="http://www.busitrecias.lt">Būsi trečias</a></td>
-        <td><a href="http://vilniusjug6.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-07-11 19:00</td>
-        <td><a href="http://www.busitrecias.lt">Būsi trečias</a></td>
-        <td><a href="http://vilniusjug5.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-06-13 19:00</td>
-        <td><a href="http://www.vvu.lt/konferenciju-centras.html">Vilniaus verslo uostas</a></td>
-        <td><a href="http://vilniusjug4.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-05-09 19:00</td>
-        <td>HUB Vilnius</td>
-        <td><a href="http://vilniusjug3.eventbrite.com">Eventbrite</a></td>
-      </tr>
-      <tr>
-        <td>2012-04-11 19:00</td>
-        <td>HUB Vilnius</td>
-        <td>Eventbrite</td>
-      </tr>
-      <tr>
-        <td>2012-03-14 19:00</td>
-        <td><a href="http://www.busitrecias.lt">Būsi trečias</a></td>
-        <td><a href="http://vilniusjug1.eventbrite.com">Eventbrite</a></td>
+      <tr ng-repeat="event in past">
+        <td>{{event.date}} {{event.time}}</td>
+        <td><a href="{{event.venue.map_url}}">{{event.venue.title}}</a></td>
+        <td><a href="{{event.registration.url}}">{{event.registration.title}}</a></td>
       </tr>
     </table>
   </div>
@@ -361,6 +136,10 @@
          alt="java.net Member Button: 170px wide">
   </a>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.0/lodash.min.js"></script>
+<script src="data/events.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
 
