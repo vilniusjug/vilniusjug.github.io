@@ -8,6 +8,9 @@
   <link rel="icon" type="image/x-icon" href="jug.png"/>
   </head>
 <body>
+<div class="center">
+  <img src="banners/voxxed-banner.jpg">
+</div>
 <div class="wrapper">
   <div class="title">
     <img src="jug_vilnius-04-120.jpg" alt="">
@@ -59,7 +62,9 @@
       </tr>
       <tr ng-repeat="event in upcoming">
         <td>
-          <img src="icons/event_types/java.png">
+          <img src="icons/event_types/java.png" ng-if="event.type == 'Vilnius JUG'">
+          <img src="icons/event_types/scala.png" ng-if="event.type == 'Vilnius Scala'">
+          <img src="icons/event_types/clojure.png" ng-if="event.type == 'Vilnius Clojure'">
         </td>
         <td>{{event.date}} {{event.time}}</td>
         <td><a href="{{event.venue.map_url}}">{{event.venue.title}}</a></td>
