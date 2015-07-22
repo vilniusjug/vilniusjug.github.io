@@ -49,22 +49,31 @@
     <h3 class="center">Vilnius JUG meetings</h3>
     <table class="center">
       <tr>
+        <td></td>
         <td>Date</td>
         <td>Venue</td>
         <td>Registration link</td>
       </tr>
       <tr>
-        <td colspan="3"><strong>Upcoming events</strong></td>
+        <td colspan="4"><strong>Upcoming events</strong></td>
       </tr>
       <tr ng-repeat="event in upcoming">
+        <td>
+          <img src="icons/event_types/java.png">
+        </td>
         <td>{{event.date}} {{event.time}}</td>
         <td><a href="{{event.venue.map_url}}">{{event.venue.title}}</a></td>
         <td><a href="{{event.registration.url}}">{{event.registration.title}}</a></td>
       </tr>
       <tr>
-        <td colspan="3"><strong>Past events</strong></td>
+        <td colspan="4"><strong>Past events</strong></td>
       </tr>
       <tr ng-repeat="event in past">
+        <td>
+          <img src="icons/event_types/java.png" ng-if="event.type == 'Vilnius JUG'">
+          <img src="icons/event_types/scala.png" ng-if="event.type == 'Vilnius Scala'">
+          <img src="icons/event_types/clojure.png" ng-if="event.type == 'Vilnius Clojure'">
+        </td>
         <td>{{event.date}} {{event.time}}</td>
         <td><a href="{{event.venue.map_url}}">{{event.venue.title}}</a></td>
         <td><a href="{{event.registration.url}}">{{event.registration.title}}</a></td>
