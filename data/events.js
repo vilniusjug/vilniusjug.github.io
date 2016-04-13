@@ -9,8 +9,8 @@ var events = _.sortByOrder([
     "url": "http://vilniusjug48.eventbrite.com"
   },
   "venue": {
-    "title": "TBA",
-    "map_url": ""
+    "title": "Artis Hotel/Room Aida",
+    "map_url": "https://goo.gl/maps/36ZWPPdKyF12"
   }
 },
 {
