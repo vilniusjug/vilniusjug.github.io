@@ -1,5 +1,19 @@
 var events = _.sortByOrder([
 {
+  "id": "49",
+  "type": "Vilnius JUG",
+  "date": "2016-09-14",
+  "time": "19:00",
+  "registration": {
+    "title": "Eventbrite",
+    "url": "http://vilniusjug49.eventbrite.com"
+  },
+  "venue": {
+    "title": "Wix new office",
+    "map_url": "https://goo.gl/maps/cRSfKnauH4F2"
+  }
+},
+{
   "id": "48",
   "type": "Vilnius JUG",
   "date": "2016-04-13",
