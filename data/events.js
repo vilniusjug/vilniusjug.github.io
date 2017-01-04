@@ -9,7 +9,7 @@ var events = _.sortByOrder([
     "url": "http://vilniusjug52.eventbrite.com"
   }
 },
-
+{
   "id": "51",
   "type": "Vilnius JUG",
   "date": "2016-11-09",
