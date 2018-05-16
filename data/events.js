@@ -6,7 +6,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url" "vilniusjug68.eventbrite.com"
+    "url": "vilniusjug68.eventbrite.com"
    }
 },
 {
@@ -16,7 +16,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url" "vilniusjug67.eventbrite.com"
+    "url": "vilniusjug67.eventbrite.com"
    }
 },
 {
