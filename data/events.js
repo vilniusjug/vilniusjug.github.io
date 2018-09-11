@@ -6,7 +6,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url": "vilniusjug69.eventbrite.com"
+    "url": "https://vilniusjug69.eventbrite.com"
 }
 },
 {
@@ -16,7 +16,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url": "vilniusjug68.eventbrite.com"
+    "url": "https://vilniusjug68.eventbrite.com"
    }
 },
 {
@@ -26,7 +26,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url": "vilniusjug67.eventbrite.com"
+    "url": "https://vilniusjug67.eventbrite.com"
    }
 },
 {
@@ -36,7 +36,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url": "http://vilniusjug65.eventbrite.com"
+    "url": "https://vilniusjug65.eventbrite.com"
    }
 },
 {
@@ -46,7 +46,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url": "http://vilniusjug64.eventbrite.com"
+    "url": "https://vilniusjug64.eventbrite.com"
    }
 },
 {
@@ -56,7 +56,7 @@ var events = _.sortByOrder([
   "time": "18:30",
   "registration": {
     "title": "Eventbrite",
-    "url": "http://vilniusjug63.eventbrite.com"
+    "url": "https://vilniusjug63.eventbrite.com"
    }
 },
 {
@@ -66,7 +66,7 @@ var events = _.sortByOrder([
   "time": "9:45",
   "registration": {
     "title": "Eventbrite",
-    "url": "http://vilniusjug62.eventbrite.com"
+    "url": "https://vilniusjug62.eventbrite.com"
    }
 },
 {
@@ -76,7 +76,7 @@ var events = _.sortByOrder([
   "time": "19:00",
   "registration": {
     "title": "Eventbrite",
-    "url": "http://vilniusjug61.eventbrite.com"
+    "url": "https://vilniusjug61.eventbrite.com"
    }
 },
 {
