@@ -1,5 +1,15 @@
 var events = _.sortByOrder([
 {
+  "id": "74",
+  "type": "Vilnius JUG",
+  "date": "2019-03-13",
+  "time": "19:00",
+  "registration": {
+    "title": "Eventbrite",
+    "url": "https://vilniusjug74.eventbrite.com"
+  }
+},
+{
   "id": "73",
   "type": "Vilnius Scala",
   "date": "2019-02-27",
