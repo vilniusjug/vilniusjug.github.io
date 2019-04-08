@@ -4,11 +4,11 @@ app.controller('EventsController', function ($scope) {
   var now = new Date(); 
   var currentDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
 
-  $scope.upcoming = _.filter(events, function(event) {
+  $scope.upcoming = events.filter(function(event) {
     return Date.parse(event.date) >= currentDate;
   });
 
-  $scope.past = _.filter(events, function(event) {
+  $scope.past = events.filter(function(event) {
     return Date.parse(event.date) < currentDate;
   });
 });
