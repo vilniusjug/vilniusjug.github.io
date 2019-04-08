@@ -6,7 +6,7 @@
   <title>Vilnius JUG</title>
   <link rel="stylesheet" href="css/jug.css">
   <link rel="icon" type="image/x-icon" href="jug.png"/>
-  </head>
+</head>
 <body>
 <div class="wrapper">
   <div class="title">
@@ -15,47 +15,25 @@
 </div>
 <br/>
 
-<div class="header">
-  Become one of us:
-  <br>
-  <a rel="author" href="https://plus.google.com/104670972179410824918/">
-    <img src="icons/icons_32x32px/google_plus.png" alt="">
-  </a>
-  <a href="https://groups.google.com/group/vilnius-jug?hl=lt">
-    <img src="icons/icons_32x32px/google_1.png" alt="">
-  </a>
-  <a href="http://www.eventbrite.com/rss/organizer_list_events/1967771651">
-    <img src="icons/icons_32x32px/rss.png" alt="">
-  </a>
-  <a href="http://www.linkedin.com/groups/Lithuanian-Java-Users-Group-LJUG-2082630">
-    <img src="icons/icons_32x32px/linkedin.png" alt="">
-  </a>
-</div>
-<br>
+<br/>
 
 <div class="center">
   <div class="description center">
     Vilnius JUG is a community of passionate Java developers who love to
-    share their experiences and discoveries with other professionals. The
-    group is open to the public and aims to bring Java people together.
-    <br>
-    As the name suggests Vilnius JUG operates in the capital of Lithuania and tries to
-    build community around the city.
+    share their experiences and discoveries with other professionals.
   </div>
   <br>
 </div>
 <div class="row" ng-app='vilniusJugApp' ng-controller="EventsController">
   <div class="column">
-    <h3 class="center">Vilnius JUG meetings</h3>
+    <h3 class="center">Vilnius JUG Events</h3>
+    <br/>
     <table class="center">
       <tr>
         <td></td>
         <td>Date</td>
         <td>Venue</td>
         <td>Registration link</td>
-      </tr>
-      <tr>
-        <td colspan="4"><strong>Upcoming events</strong></td>
       </tr>
       <tr ng-repeat="event in upcoming">
         <td>
@@ -67,9 +45,7 @@
         <td><a href="{{event.venue.map_url}}">{{event.venue.title}}</a></td>
         <td><a href="{{event.registration.url}}">{{event.registration.title}}</a></td>
       </tr>
-      <tr>
-        <td colspan="4"><strong>Past events</strong></td>
-      </tr>
+
       <tr ng-repeat="event in past">
         <td>
           <img src="icons/event_types/java.png" ng-if="event.type == 'Vilnius JUG'">
@@ -88,38 +64,38 @@
     <div class="logo-box">
       <a href="https://www.getcujo.com">
         <img
-            src="cujo.png"
-            alt="CUJO AI Logo">
+          src="cujo.png"
+          alt="CUJO AI Logo">
       </a>
     </div>
-    
+
     <div class="logo-box">
       <a href="https://platform-lunar.com/">
         <img
-            src="pl.png"
-            alt="Platform Lunar Logo">
+          src="pl.png"
+          alt="Platform Lunar Logo">
       </a>
     </div>
 
     <div class="logo-box">
       <a href="https://spectrocoin.com/">
         <img
-            src="sc.png"
-            alt="Spectro Coin Logo">
+          src="sc.png"
+          alt="Spectro Coin Logo">
       </a>
     </div>
     <div class="logo-box">
       <a href="https://www.hotelston.com/">
         <img
-            src="logo-hston-lt-alpha.png"
-            alt="Hotelston Logo">
+          src="logo-hston-lt-alpha.png"
+          alt="Hotelston Logo">
       </a>
     </div>
     <div class="logo-box">
       <a href="http://www.wix.com">
         <img
-            src="http://static.parastorage.com/services/html-landing/html/hp-new-design/hp-resources/images-v-01/wixlogo.jpg"
-            alt="Wix Logo">
+          src="http://static.parastorage.com/services/html-landing/html/hp-new-design/hp-resources/images-v-01/wixlogo.jpg"
+          alt="Wix Logo">
       </a>
     </div>
     <div>
@@ -134,7 +110,7 @@
 <div class="center">
   <br>
   <a
-      href="mailto:&#108;&#101;&#097;&#100;&#101;&#114;&#115;&#064;&#118;&#105;&#108;&#110;&#105;&#117;&#115;&#045;&#106;&#117;&#103;&#046;&#108;&#116;">
+    href="mailto:&#108;&#101;&#097;&#100;&#101;&#114;&#115;&#064;&#118;&#105;&#108;&#110;&#105;&#117;&#115;&#045;&#106;&#117;&#103;&#046;&#108;&#116;">
     &#108;&#101;&#097;&#100;&#101;&#114;&#115;&#064;&#118;&#105;&#108;&#110;&#105;&#117;&#115;&#045;&#106;&#117;&#103;&#046;&#108;&#116;</a>
   <br>
   +&#051;&#055;&#048;&#032;&#054;&#049;&#053;&#032;&#054;&#048;&#052;&#053;&#049;,&#032;+&#051;&#055;&#048;&#032;&#054;&#056;&#049;&#032;&#052;&#049;&#050;&#056;&#048;
