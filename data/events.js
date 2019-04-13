@@ -1019,11 +1019,16 @@ var events = [
     'venue': {
       'title': 'HUB Vilnius',
       'map_url': 'https://goo.gl/maps/VBl2z'
-    }
+    },
+    'talks': [
+      {'author': 'Vaidas Pilkauskas', 'title': 'Spring JDBC Template'},
+      {'author': 'Vytautas Čivilis', 'title': 'Java web Startupuose'}
+    ]
   },
   {
     'id': '1',
     'type': 'Vilnius JUG',
+    'format': 'pub',
     'date': '2012-03-14',
     'time': '19:00',
     'registration': {
