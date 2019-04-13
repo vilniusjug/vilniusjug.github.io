@@ -992,7 +992,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Edvinas Bartkus', 'title': 'Groovy/Grails/Gradle'},
+      {'author': 'Vaidas Pilkauskas, Kasparas Rudokas, Aleksej Šipulia', 'title': 'GeeCON 2012'}
+    ]
   },
   {
     'id': '3',
@@ -1008,7 +1012,7 @@ var events = [
       'map_url': 'https://goo.gl/maps/VBl2z'
     },
     'talks': [
-      {'author': 'Artūr Girenko', 'title': 'Simplified DAO Layer Testing'},
+      {'author': 'Artūras Girenko', 'title': 'Simplified DAO Layer Testing'},
       {'author': 'Osvaldas Grigas', 'title': 'Effective Guava: Write Less, Do More'}
     ]
   },
