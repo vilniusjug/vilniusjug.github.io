@@ -1006,7 +1006,11 @@ var events = [
     'venue': {
       'title': 'HUB Vilnius',
       'map_url': 'https://goo.gl/maps/VBl2z'
-    }
+    },
+    'talks': [
+      {'author': 'Artūr Girenko', 'title': 'Simplified DAO Layer Testing'},
+      {'author': 'Osvaldas Grigas', 'title': 'Effective Guava: Write Less, Do More'}
+    ]
   },
   {
     'id': '2',
