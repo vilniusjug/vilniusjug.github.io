@@ -1,4 +1,18 @@
 var events = [
+   {
+    'id': '75',
+    'type': 'Vilnius JUG',
+    'date': '2019-05-23',
+    'time': '19:00',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug75.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Swedbank',
+      'map_url': 'https://goo.gl/maps/NF4Oa'
+    }
+  },
   {
     'id': '74',
     'type': 'Vilnius JUG',
