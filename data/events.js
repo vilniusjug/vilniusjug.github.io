@@ -964,7 +964,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Jonas Lasauskas', 'title': 'RESTful web services / JAX-RS / Jersey'},
+      {'author': 'Artur Girenko', 'title': 'Introduction to OSGi by example'}
+    ]
   },
   {
     'id': '6',
