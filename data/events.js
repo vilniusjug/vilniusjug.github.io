@@ -894,7 +894,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Šarūnas Davalga', 'title': 'Journey of a web application towards Node.js'},
+      {'author': 'Osvaldas Grigas', 'title': 'TDD Dojo'}
+    ]
   },
   {
     'id': '11',
