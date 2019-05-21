@@ -936,7 +936,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Martynas Jusevičius', 'title': 'Semantic Web'},
+      {'author': 'Vaidas Pilkauskas, Kasparas Rudokas', 'title': 'Java 8'}
+    ]
   },
   {
     'id': '8',
