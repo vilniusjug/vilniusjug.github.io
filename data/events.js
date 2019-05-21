@@ -908,7 +908,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Jonas Lasauskas', 'title': 'StringTemplate: Separate your views completely'},
+      {'author': 'Martynas Mickevičius', 'title': 'Development of open source Android application'}
+    ]
   },
   {
     'id': '10',
