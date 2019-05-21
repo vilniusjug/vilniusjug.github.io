@@ -880,7 +880,10 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Mantas Urbonas', 'title': 'Software licences'}
+    ]
   },
   {
     'id': '12',
