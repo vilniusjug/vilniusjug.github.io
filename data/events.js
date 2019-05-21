@@ -922,7 +922,11 @@ var events = [
     'venue': {
       'title': 'Mega Hub Vilnius',
       'map_url': 'https://goo.gl/maps/gLtq6'
-    }
+    },
+    'talks': [
+      {'author': 'Gediminas Guoba', 'title': 'Continuous Delivery'},
+      {'author': 'Vilius Kraujutis', 'title': 'Android for Java developers'}
+    ]
   },
   {
     'id': '9',
