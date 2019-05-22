@@ -684,7 +684,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Valdas Žigas', 'title': 'Java 8 Stream API'},
+      {'author': 'Ramūnas Balukonis', 'title': 'Research of Techmologies for Big Data'}
+    ]
   },
   {
     'id': '26',
