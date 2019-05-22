@@ -473,7 +473,11 @@ var events = [
     'venue': {
       'title': 'Best Western, Gintaro A+B room',
       'map_url': 'https://goo.gl/maps/AWgl1'
-    }
+    },
+    'talks': [
+      {'author': 'Mantas Indrašius', 'title': 'Use Cases for Nashorn'},
+      {'author': 'Aurelijus Stanislovaitis', 'title': 'XSS vs CSRF: Similarities and Differences'}
+    ]
   },
   {
     'id': '39',
