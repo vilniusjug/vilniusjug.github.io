@@ -529,7 +529,11 @@ var events = [
     'venue': {
       'title': 'Radisson Blu Hotel Lietuva, Zeta room',
       'map_url': 'https://goo.gl/maps/850oV'
-    }
+    },
+    'talks': [
+      {'author': 'Henrik Ingo', 'title': 'MongoDB for Java Developers'},
+      {'author': 'Matt Heath', 'title': 'A Journey into a Microservice World'}
+    ]
   },
   {
     'id': '35',
