@@ -375,7 +375,11 @@ var events = [
     'venue': {
       'title': 'Artis Hotel/Room Aida',
       'map_url': 'https://goo.gl/maps/36ZWPPdKyF12'
-    }
+    },
+    'talks': [
+      {'author': 'Osvaldas Grigas', 'title': 'Life without objects'},
+      {'author': 'Saulius Narkevičius', 'title': 'Do not get lost among UI frameworks'}
+    ]
   },
   {
     'id': '47',
