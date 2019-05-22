@@ -403,7 +403,11 @@ var events = [
     'venue': {
       'title': 'Wix.com',
       'map_url': 'https://goo.gl/maps/jRFqC'
-    }
+    },
+    'talks': [
+      {'author': 'Sam Elamin', 'title': 'Metrics Driven Developmen'},
+      {'author': 'Enis Sanchez'}
+    ]
   },
   {
     'id': '45',
