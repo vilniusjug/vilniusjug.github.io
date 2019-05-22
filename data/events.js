@@ -782,7 +782,12 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Aleksej Šipulia', 'title': 'Hidden magic of IntelliJ IDEA'},
+      {'author': 'Osvaldas Grigas', 'title': 'Simplicity'},
+      {'author': 'Gediminas Guoba', 'title': 'Web test automation & best practices'}
+    ]
   },
   {
     'id': '19',
