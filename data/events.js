@@ -377,8 +377,8 @@ var events = [
       'map_url': 'https://goo.gl/maps/36ZWPPdKyF12'
     },
     'talks': [
-      {'author': 'Osvaldas Grigas', 'title': 'Life without objects'},
-      {'author': 'Saulius Narkevičius', 'title': 'Do not get lost among UI frameworks'}
+      {'author': 'Osvaldas Grigas', 'title': 'Building a framework-less web app'},
+      {'author': 'Noam Almog', 'title': 'An Obsessive Compulsive Guide To Clean Tests'}
     ]
   },
   {
@@ -394,7 +394,11 @@ var events = [
     'venue': {
       'title': 'Wix.com',
       'map_url': 'https://goo.gl/maps/jRFqC'
-    }
+    },
+    'talks': [
+      {'author': 'Osvaldas Grigas', 'title': 'Life without objects'},
+      {'author': 'Saulius Narkevičius', 'title': 'Do not get lost among UI frameworks'}
+    ]
   },
   {
     'id': '46',
