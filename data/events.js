@@ -487,7 +487,11 @@ var events = [
     'venue': {
       'title': 'Wix.com',
       'map_url': 'https://goo.gl/maps/jRFqC'
-    }
+    },
+    'talks': [
+      {'author': 'Aurelijus Banelis', 'title': 'Scala for GUI'},
+      {'author': 'Orr Sella', 'title': 'True End-to-End Testing in Scala'}
+    ]
   },
   {
     'id': '38',
