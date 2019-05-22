@@ -361,7 +361,11 @@ var events = [
     'venue': {
       'title': 'Wix new office',
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
-    }
+    },
+    'talks': [
+      {'author': 'Osvaldas Grigas', 'title': 'Building a framework-less web app'},
+      {'author': 'Noam Almog', 'title': 'An Obsessive Compulsive Guide To Clean Tests'}
+    ]
   },
   {
     'id': '48',
@@ -377,8 +381,8 @@ var events = [
       'map_url': 'https://goo.gl/maps/36ZWPPdKyF12'
     },
     'talks': [
-      {'author': 'Osvaldas Grigas', 'title': 'Building a framework-less web app'},
-      {'author': 'Noam Almog', 'title': 'An Obsessive Compulsive Guide To Clean Tests'}
+      {'author': 'Osvaldas Grigas', 'title': 'Life without objects'},
+      {'author': 'Saulius Narkevičius', 'title': 'Do not get lost among UI frameworks'}
     ]
   },
   {
@@ -394,11 +398,7 @@ var events = [
     'venue': {
       'title': 'Wix.com',
       'map_url': 'https://goo.gl/maps/jRFqC'
-    },
-    'talks': [
-      {'author': 'Osvaldas Grigas', 'title': 'Life without objects'},
-      {'author': 'Saulius Narkevičius', 'title': 'Do not get lost among UI frameworks'}
-    ]
+    }
   },
   {
     'id': '46',
