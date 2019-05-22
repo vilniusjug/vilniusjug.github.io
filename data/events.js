@@ -599,7 +599,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Vytautas Dagilis', 'title': 'Bye Bye Cowboy-Coder days!', 'description': 'Working Effectively with Legacy Code'},
+      {'author': 'Donatas Mažionis', 'title': 'Building low latency web APIs', 'description': 'measure your API latencies in average milliseconds\nwould like to hear about API architecture handling 150K QPS and lessons learned while building it\nwant to know the real truth about Cassandra, Redis, Scala, .Net, Mono'}
+    ]
   },
   {
     'id': '31',
