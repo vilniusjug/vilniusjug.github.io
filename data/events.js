@@ -380,6 +380,7 @@ var events = [
   {
     'id': '47',
     'type': 'Vilnius Scala',
+    'status': 'canceled',
     'date': '2016-03-30',
     'time': '19:00',
     'registration': {
