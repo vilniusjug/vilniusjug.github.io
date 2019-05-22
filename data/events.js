@@ -417,7 +417,13 @@ var events = [
     'venue': {
       'title': 'Wix.com',
       'map_url': 'https://goo.gl/maps/jRFqC'
-    }
+    },
+    'talks': [
+      {'author': 'Eduards Sizovs', 'title': '8 Things That Make Continuous Delivery Go Nuts'},
+      {'author': 'Alexander Fridman', 'title': 'Sales 101: Chasing Dreams'},
+      {'author': 'Alexey Buzdin', 'title': 'Reactive 4TW! (Introduction to Reactive programming and RxJava/RxAndroid)'},
+      {'author': 'Andrey Adamovich', 'title': 'Need for speed: tools for JVM tuning'}
+    ]
   },
   {
     'id': '43',
