@@ -754,7 +754,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Mindaugas Žakšauskas', 'title': 'Informacijos paieška ir įvadas į Lucene'},
+      {'author': 'Martin Thompson', 'title': 'Practicing at the cutting edge: Learning and unlearning about Java performance'}
+    ]
   },
   {
     'id': '21',
