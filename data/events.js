@@ -459,7 +459,11 @@ var events = [
     'venue': {
       'title': 'Radisson Blu Lietuva, Lambda room',
       'map_url': 'https://goo.gl/maps/850oV'
-    }
+    },
+    'talks': [
+      {'author': 'Mindaugas Mozūras', 'title': 'A/B Testing Evolution'},
+      {'author': 'Tomasz Nurkiewicz', 'title': 'Hystrix – Managing Failures in Distributed Systems'}
+    ]
   },
   {
     'id': '40',
