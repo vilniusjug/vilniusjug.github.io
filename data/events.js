@@ -712,7 +712,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Karolis Butkus', 'title': 'DI: Guice vs Spring'},
+      {'author': 'Vaidas Pilkauskas', 'title': 'Java 8 Date/Time API'}
+    ]
   },
   {
     'id': '24',
