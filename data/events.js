@@ -543,7 +543,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Vaidas Pilkauskas', 'title': 'Developer Tests - Things to Know'},
+      {'author': 'Eimantas Vaičiūnas', 'title': 'Git Plumbing'}
+    ]
   },
   {
     'id': '34',
