@@ -726,7 +726,11 @@ var events = [
     'venue': {
       'title': 'Vilnius Academy of Arts',
       'map_url': 'https://goo.gl/maps/JLJCS'
-    }
+    },
+    'talks': [
+      {'author': 'Shai Yallin', 'title': 'How Scala Promotes TDD'},
+      {'author': 'Markus Backman', 'title': 'Fighting Cybercrime'}
+    ]
   },
   {
     'id': '23',
