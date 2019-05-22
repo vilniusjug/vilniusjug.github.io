@@ -698,7 +698,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Artūras Šlajus', 'title': 'Concurrency & Parallelism', 'description': 'What is concurrency and parallelism and how to deal with it.'},
+      {'author': 'Osvaldas Grigas', 'title': 'Enemies of Agile Design', 'description': 'A deeper look into coupling, the way it hinders iterative development and how it can be reduced by isolated testing and following the rules of simple design.'}
+    ]
   },
   {
     'id': '25',
