@@ -768,7 +768,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Viačeslav Pozdniakov', 'title': 'Property-Based Testing'},
+      {'author': 'Greg Young', 'title': 'Eventstore database and real time data in Web applications'}
+    ]
   },
   {
     'id': '20',
