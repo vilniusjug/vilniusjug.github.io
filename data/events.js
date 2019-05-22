@@ -422,6 +422,7 @@ var events = [
   {
     'id': '43',
     'type': 'Vilnius JUG',
+    'format': 'pub',
     'date': '2015-08-12',
     'time': '19:00',
     'registration': {
@@ -436,6 +437,7 @@ var events = [
   {
     'id': '42',
     'type': 'Vilnius JUG',
+    'format': 'pub',
     'date': '2015-07-08',
     'time': '19:00',
     'registration': {
