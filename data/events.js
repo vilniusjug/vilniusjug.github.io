@@ -796,7 +796,10 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': ['Saulius Narkevičius', 'Viačeslav Pozdniakov'], 'title': 'Programming without test and refactoring'}
+    ]
   },
   {
     'id': '18',
