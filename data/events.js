@@ -406,6 +406,21 @@ var events = [
     }
   },
   {
+    'id': '45',
+    'type': 'Vilnius JUG',
+    'format': 'pub',
+    'date': '2015-10-13',
+    'time': '19:00',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'http://vilniusjug45.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Būsi trečias',
+      'map_url': 'https://goo.gl/maps/WGIr0'
+    }
+  },
+  {
     'id': '44',
     'type': 'Vilnius JUG',
     'date': '2015-09-24',
