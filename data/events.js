@@ -557,7 +557,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Randy Shoup', 'title': 'Concurrency at Scale: Evolving to Reactive Micro-Services'},
+      {'author': 'Kevlin Henney', 'title': 'A System Is Not a Tree'}
+    ]
   },
   {
     'id': '33',
