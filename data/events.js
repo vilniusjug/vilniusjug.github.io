@@ -731,6 +731,7 @@ var events = [
   {
     'id': '23',
     'type': 'Vilnius JUG',
+    'format': 'pub',
     'date': '2014-01-08',
     'time': '19:00',
     'registration': {
