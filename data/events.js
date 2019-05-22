@@ -850,9 +850,13 @@ var events = [
       'url': 'http://vilniusjug15.eventbrite.com'
     },
     'venue': {
-      'title': 'Būsi trečias',
-      'map_url': 'https://goo.gl/maps/WGIr0'
-    }
+      'title': 'Vilniaus verslo uostas',
+      'map_url': 'https://goo.gl/maps/h5ru2'
+    },
+    'talks': [
+      {'author': 'Tomas Zulgis', 'title': 'Wizards: Just don’t invent a bicycle'},
+      {'author': 'Osvaldas Grigas', 'title': 'Event Sourcing & CQRS'}
+    ]
   },
   {
     'id': '14',
