@@ -571,7 +571,11 @@ var events = [
     'venue': {
       'title': 'Vilniaus verslo uostas',
       'map_url': 'https://goo.gl/maps/h5ru2'
-    }
+    },
+    'talks': [
+      {'author': 'Karolis Pociūnas', 'title': 'ORM Adventures in Scala'},
+      {'author': 'Viačeslav Pozdniakov', 'title': 'How we use Scala'}
+    ]
   },
   {
     'id': 'clojure-2',
