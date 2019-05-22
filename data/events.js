@@ -501,7 +501,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Rolandas Griškevičius', 'title': 'Everything you wanted to know about monads, but were afraid to ask'},
+      {'author': 'Artūras Šlajus', 'title': 'Quest for composable immutable objects'}
+    ]
   },
   {
     'id': '37',
