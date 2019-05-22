@@ -515,7 +515,11 @@ var events = [
     'venue': {
       'title': 'Wix.com',
       'map_url': 'https://goo.gl/maps/jRFqC'
-    }
+    },
+    'talks': [
+      {'author': 'Alexander Gryzlov', 'title': 'Declarative I/O and data flow processing with scalaz-stream'},
+      {'author': 'Martynas Mickevičius', 'title': 'The Akka Stream of Rhetoric and the Identity of Multimodal Composition Practices'}
+    ]
   },
   {
     'id': '36',
