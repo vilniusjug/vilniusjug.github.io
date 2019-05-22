@@ -670,7 +670,11 @@ var events = [
     'venue': {
       'title': 'Wix.com',
       'map_url': 'https://goo.gl/maps/jRFqC'
-    }
+    },
+    'talks': [
+      {'author': 'Shai Yallin', 'title': 'Working asynchronously with Futures and Promises'},
+      {'author': 'Viačeslav Pozdniakov', 'title': 'Not That Simple For-loop'}
+    ]
   },
   {
     'id': '27',
