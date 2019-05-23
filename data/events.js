@@ -193,7 +193,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Eduards Sizovs', 'title': 'Chatbot in just 30 minutes'},
+      {'author': 'Andrey Adamovich', 'title': 'Bots at Community Service'}
+    ]
   },
   {
     'id': '60',
