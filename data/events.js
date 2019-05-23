@@ -109,7 +109,10 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Steve Poole', 'title': 'Are you ready for Cloud Native Java?'}
+    ]
   },
   {
     'id': '67',
