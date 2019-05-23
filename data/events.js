@@ -112,18 +112,35 @@ var events = [
     }
   },
   {
-    'id': '66',
-    'type': 'Vilnius Scala',
-    'date': '2018-05-02',
+    'id': '67',
+    'type': 'Vilnius JUG',
+    'date': '2018-05-09',
     'time': '19:00',
     'registration': {
       'title': 'Eventbrite',
       'url': 'https://vilniusjug67.eventbrite.com'
     },
     'venue': {
+      'title': 'Swedbank',
+      'map_url': 'https://goo.gl/maps/NF4Oa'
+    }
+  },
+  {
+    'id': '66',
+    'type': 'Vilnius Scala',
+    'date': '2018-05-02',
+    'time': '19:00',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug66.eventbrite.com'
+    },
+    'venue': {
       'title': 'Wix new office',
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
-    }
+    },
+    'talks': [
+      {'author': 'Linas Medžiūnas', 'title': 'Scala pattern matching: apply the unapply'}
+    ]
   },
   {
     'id': '65',
