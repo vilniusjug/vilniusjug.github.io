@@ -81,7 +81,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Anton Arhipov', 'title': 'New & cool in IntelliJ IDEA'},
+      {'author': 'Pranas Sasnauskas', 'title': 'Internet of Things. Chapter 1: Basics'}
+    ]
   },
   {
     'id': '69',
