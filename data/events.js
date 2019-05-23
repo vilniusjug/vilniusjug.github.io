@@ -1188,7 +1188,7 @@ var events = [
     },
     'talks': [
       {'author': 'Martynas Jusevičius', 'title': 'Semantic Web'},
-      {'author': 'Vaidas Pilkauskas, Kasparas Rudokas', 'title': 'Java 8'}
+      {'author': ['Vaidas Pilkauskas', 'Kasparas Rudokas'], 'title': 'Java 8'}
     ]
   },
   {
@@ -1272,7 +1272,7 @@ var events = [
     },
     'talks': [
       {'author': 'Edvinas Bartkus', 'title': 'Groovy/Grails/Gradle'},
-      {'author': 'Vaidas Pilkauskas, Kasparas Rudokas, Aleksej Šipulia', 'title': 'GeeCON 2012'}
+      {'author': ['Vaidas Pilkauskas', 'Kasparas Rudokas', 'Aleksej Šipulia'], 'title': 'GeeCON 2012'}
     ]
   },
   {
