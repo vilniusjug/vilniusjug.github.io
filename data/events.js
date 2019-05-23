@@ -135,9 +135,12 @@ var events = [
       'url': 'https://vilniusjug65.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+      'title': 'Best Western, Granito salė',
+      'map_url': 'https://goo.gl/maps/ahj9AEWko792'
+    },
+    'talks': [
+      {'author': 'Uwe Friedrichsen', 'title': 'The promises and perils of microservices'}
+    ]
   },
   {
     'id': '64',
