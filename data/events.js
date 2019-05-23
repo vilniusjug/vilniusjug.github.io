@@ -347,7 +347,11 @@ var events = [
     'venue': {
       'title': 'Wix new office',
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
-    }
+    },
+    'talks': [
+      {'author': 'James Shubin', 'title': 'Next Generation Config Mgmt'},
+      {'author': 'Avishai Ish-Shalom', 'title': 'StatsD: Java concurrency case study'}
+    ]
   },
   {
     'id': '49',
