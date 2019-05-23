@@ -277,7 +277,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Alexey Buzdin', 'title': 'Annotation Processing - Why? When? How? (with Dagger 2 and Lombok)'},
+      {'author': 'Dmitry Buzdin', 'title': 'Modern Security with OAuth 2.0 and JWT and Spring'}
+    ]
   },
   {
     'id': '54',
