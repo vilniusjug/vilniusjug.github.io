@@ -291,7 +291,12 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Dalia Simons', 'title': 'The immor(t)ality of legacy projects'},
+      {'author': 'Amit Anafy', 'title': 'The world outside - The blind spot of TDD'},
+      {'author': 'Talya Gendler', 'title': 'Experimenting on Humans (everything you want from an a/b testing system)'}
+    ]
   },
   {
     'id': '53',
