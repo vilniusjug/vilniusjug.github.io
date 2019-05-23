@@ -112,7 +112,7 @@ var events = [
     }
   },
   {
-    'id': '67',
+    'id': '66',
     'type': 'Vilnius Scala',
     'date': '2018-05-02',
     'time': '19:00',
