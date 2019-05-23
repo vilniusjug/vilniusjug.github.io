@@ -123,7 +123,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Dainius Vaznys', 'title': 'How we stopped using Hibernate'},
+      {'author': 'Matas Tvarijonas', 'title': 'Running multi continent private cloud powered by OpenStack'}
+    ]
   },
   {
     'id': '66',
