@@ -179,7 +179,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Venkat Subramaniam', 'title': 'Exploring Java 9'},
+      {'author': 'Venkat Subramaniam', 'title': 'From Functional to Reactive Programming'}
+    ]
   },
   {
     'id': '61',
