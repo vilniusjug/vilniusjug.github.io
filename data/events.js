@@ -165,7 +165,11 @@ var events = [
     'venue': {
       'title': 'Best Western, Granito salė',
       'map_url': 'https://goo.gl/maps/ahj9AEWko792'
-    }
+    },
+    'talks': [
+      {'author': 'Juergen Hoeller', 'title': 'Spring Framework 5: Themes & Trends'},
+      {'author': 'Juergen Hoeller', 'title': 'Spring Framework 5: Hidden Gems'}
+    ]
   },
   {
     'id': '62',
