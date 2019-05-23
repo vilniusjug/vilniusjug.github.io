@@ -95,7 +95,12 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Vitaly Sekunov', 'title': 'The Magnificent World of the Airlines'},
+      {'author': ['Eduards Sizovs', 'Andrey Adamovich'], 'title': 'How we built Dev.Tube'},
+      {'author': 'Darja Krizska-Popova', 'title': 'Networking Icebreakers or How to make use of the Networking Sessions at Tech Conferences'}
+    ]
   },
   {
     'id': '68',
