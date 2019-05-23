@@ -317,9 +317,13 @@ var events = [
       'url': 'http://vilniusjug52.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+      'title': 'Wix new office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Paul Stack', 'title': 'Building Self Healing Infrastructure in the Cloud'},
+      {'author': 'Mantas Indrašius', 'title': 'No Framework'}
+    ]
   },
   {
     'id': '51',
