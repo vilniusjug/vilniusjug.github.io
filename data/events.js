@@ -39,7 +39,11 @@ var events = [
     'venue': {
       'title': 'Wix new office',
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
-    }
+    },
+    'talks': [
+      {'author': 'Laurynas Lubys', 'title': ' Nutri-matric: A library generating random values for testing.'},
+      {'author': 'Martynas Mickevičius', 'title': ' What’s new in Scala 3?'}
+    ]
   },
   {
     'id': '72',
