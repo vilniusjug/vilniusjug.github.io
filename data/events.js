@@ -240,6 +240,7 @@ var events = [
   {
     'id': '57',
     'type': 'Vilnius JUG',
+    'format': 'pub',
     'date': '2017-06-14',
     'time': '19:00',
     'registration': {
@@ -247,9 +248,9 @@ var events = [
       'url': 'http://vilniusjug57.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+      'title': 'Būsi trečias',
+      'map_url': 'https://goo.gl/maps/WGIr0'
+    },
   },
   {
     'id': '56',
