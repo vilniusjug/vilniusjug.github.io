@@ -151,7 +151,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Dominic Bevacqua', 'title': 'Multi-dimensional points in Elasticsearch'},
+      {'author': 'Volodymyr Tsukur', 'title': 'GraphQL - APIs the New Way'}
+    ]
   },
   {
     'id': '63',
