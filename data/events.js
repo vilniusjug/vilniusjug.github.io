@@ -11,7 +11,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+     'talks': [
+       {'author': 'Saulius Tvarijonas', 'title': 'Introduction to Kafka'},
+       {'author': 'Mike Ensor', 'title': 'End-to-End cloud-native development with Spring'}
+     ]
   },
   {
     'id': '74',
