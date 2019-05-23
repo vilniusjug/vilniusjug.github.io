@@ -263,7 +263,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Marius Vaitkus', 'title': 'Cascading Failures'},
+      {'author': 'Vaidas Pilkauskas', 'title': 'Understanding Git'}
+    ]
   },
   {
     'id': '55',
