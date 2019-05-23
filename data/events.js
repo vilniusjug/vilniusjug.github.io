@@ -303,9 +303,13 @@ var events = [
       'url': 'http://vilniusjug53.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+      'title': 'Wix.com',
+      'map_url': 'https://goo.gl/maps/jRFqC'
+    },
+    'talks': [
+      {'author': 'Martynas Mickevičius', 'title': 'Bringing Scala to exotic places'},
+      {'author': 'Vaidas Pilkauskas', 'title': 'An Introduction to Mutation Testing'}
+    ]
   },
   {
     'id': '52',
