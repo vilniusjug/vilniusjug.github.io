@@ -197,6 +197,7 @@ var events = [
   },
   {
     'id': '60',
+    'format': 'pub',
     'type': 'Vilnius JUG',
     'date': '2017-09-21',
     'time': '19:00',
@@ -205,8 +206,8 @@ var events = [
       'url': 'http://vilniusjug60.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
+      'title': 'Alaus Namai',
+      'map_url': 'https://goo.gl/maps/aCdzA312gNMvEYFo7'
     }
   },
   {
