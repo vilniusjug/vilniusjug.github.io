@@ -25,7 +25,11 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Osvaldas Grigas', 'title': 'Good Enough Tests'},
+      {'author': 'Viačeslav Pozdniakov', 'title': 'Switching to Asynchronous RPC Stack'}
+    ]
   },
   {
     'id': '73',
@@ -41,8 +45,8 @@ var events = [
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
     },
     'talks': [
-      {'author': 'Laurynas Lubys', 'title': ' Nutri-matric: A library generating random values for testing.'},
-      {'author': 'Martynas Mickevičius', 'title': ' What’s new in Scala 3?'}
+      {'author': 'Laurynas Lubys', 'title': 'Nutri-matric: A library generating random values for testing.'},
+      {'author': 'Martynas Mickevičius', 'title': 'What’s new in Scala 3?'}
     ]
   },
   {
