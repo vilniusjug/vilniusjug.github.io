@@ -212,6 +212,7 @@ var events = [
   {
     'id': '59',
     'type': 'Vilnius JUG',
+    'format': 'pub',
     'date': '2017-08-09',
     'time': '19:00',
     'registration': {
@@ -219,13 +220,14 @@ var events = [
       'url': 'http://vilniusjug59.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
+      'title': 'Būsi trečias',
+      'map_url': 'https://goo.gl/maps/WGIr0'
     }
   },
   {
     'id': '58',
     'type': 'Vilnius JUG',
+    'format': 'pub',
     'date': '2017-07-10',
     'time': '19:00',
     'registration': {
@@ -233,8 +235,8 @@ var events = [
       'url': 'http://vilniusjug58.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
+      'title': 'Būsi trečias',
+      'map_url': 'https://goo.gl/maps/WGIr0'
     }
   },
   {
@@ -250,7 +252,7 @@ var events = [
     'venue': {
       'title': 'Būsi trečias',
       'map_url': 'https://goo.gl/maps/WGIr0'
-    },
+    }
   },
   {
     'id': '56',
