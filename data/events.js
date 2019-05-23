@@ -67,7 +67,10 @@ var events = [
     'venue': {
       'title': 'Wix new office',
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
-    }
+    },
+    'talks': [
+      {'author': 'Linas Medžiūnas', 'title': 'Comprehending the for-comprehension'}
+    ]
   },
   {
     'id': '70',
