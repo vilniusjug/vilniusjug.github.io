@@ -331,9 +331,14 @@ var events = [
       'url': 'http://vilniusjug51.eventbrite.com'
     },
     'venue': {
-      'title': 'Swedbank',
-      'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+      'title': 'Wix new office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Albert Businskis', 'title': 'IT-jitsu: Mind Efficiency and Creativity for Ninjas'},
+      {'author': 'Alex Fridman', 'title': 'iCAN'},
+      {'author': 'Eduards Sizovs', 'title': 'Beyond Software Craftsmanship'}
+    ]
   },
   {
     'id': '50',
