@@ -53,7 +53,12 @@ var events = [
     'venue': {
       'title': 'Swedbank',
       'map_url': 'https://goo.gl/maps/NF4Oa'
-    }
+    },
+    'talks': [
+      {'author': 'Pijus Navickas', 'title': 'First date with GraalVM'},
+      {'author': 'Milda Glebauskaitė', 'title': 'Breaking language barriers with GraalVMs polyglotism'},
+      {'author': 'Laurynas Lubys', 'title': 'Graal: Using JVM libraries in Node.js'}
+    ]
   },
   {
     'id': '71',
