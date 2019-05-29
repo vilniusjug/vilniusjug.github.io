@@ -1187,7 +1187,7 @@ var events = [
       'map_url': 'https://goo.gl/maps/h5ru2'
     },
     'talks': [
-      {'author': 'Martynas Jusevičius', 'title': 'Semantic Web'},
+      {"author": "Osvaldas Grigas", "title": "Thinking Up Names: the Good, the Bad and the Ugly"},
       {'author': ['Vaidas Pilkauskas', 'Kasparas Rudokas'], 'title': 'Java 8'}
     ]
   },
