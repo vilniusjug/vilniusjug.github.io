@@ -1,5 +1,22 @@
 var events = [
-   {
+  {
+    'id': '76',
+    'type': 'Vilnius Scala',
+    'date': '2019-06-20',
+    'time': '19:00',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusscala9.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix new office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Martynas Mickevičius', 'title': 'Scala Days Overview'}
+    ]
+  }, 
+  {
     'id': '75',
     'type': 'Vilnius JUG',
     'date': '2019-05-23',
