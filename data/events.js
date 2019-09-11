@@ -1,5 +1,23 @@
 var events = [
   {
+    'id': '77',
+    'type': 'Vilnius JUG',
+    'date': '2019-09-18',
+    'time': '19:00',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniuss77.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Swedbank',
+      'map_url': 'https://goo.gl/maps/NF4Oa'
+    },
+    'talks': [
+      {'author': 'Brigyda Pliška', 'title': 'Clean It Good (a.k.a. JVM GC)'},
+      {'author': 'Edgars Letinskis', 'title': 'Burn-Out Syndrome and Why Should You Take It Seriously'}
+    ]
+  }, 
+  {
     'id': '76',
     'type': 'Vilnius Scala',
     'date': '2019-06-20',
