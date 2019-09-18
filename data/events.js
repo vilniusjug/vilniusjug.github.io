@@ -6,7 +6,7 @@ var events = [
     'time': '19:00',
     'registration': {
       'title': 'Eventbrite',
-      'url': 'https://vilniuss77.eventbrite.com'
+      'url': 'https://vilniusjug77.eventbrite.com'
     },
     'venue': {
       'title': 'Swedbank',
