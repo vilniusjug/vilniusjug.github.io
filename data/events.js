@@ -1,5 +1,40 @@
 var events = [
   {
+    'id': '79',
+    'type': 'Vilnius JUG',
+    'date': '2020-02-06',
+    'time': '19:00',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug79.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Swedbank',
+      'map_url': 'https://goo.gl/maps/NF4Oa'
+    },
+    'talks': [
+      {'author': 'Andrzej Grzesik', 'title': 'Scooby RAM, where are you?'}
+    ]
+  },
+  {
+    'id': '78',
+    'type': 'Vilnius JUG',
+    'date': '2019-12-12',
+    'time': '19:00',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug78.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Swedbank',
+      'map_url': 'https://goo.gl/maps/NF4Oa'
+    },
+    'talks': [
+      {'author': 'Dionizas Antipenkovas', 'title': 'Embedded Analytics through Data API'},
+      {'author': 'Kasparas Rudokas', 'title': 'Competitive Programming: Team LT'}
+    ]
+  },
+  {
     'id': '77',
     'type': 'Vilnius JUG',
     'date': '2019-09-18',
