@@ -13,7 +13,7 @@ var events = [
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
     },
     'talks': [
-      {'author': 'Milda Glebauskaitė', 'title': 'A Look into Intellij Platform'},
+      {'author': 'Milda Glebauskaitė', 'title': 'A Look into IntelliJ Platform'},
       {'author': 'Gediminas Rimša', 'title': 'An Object-Oriented Talk'}
     ]
   },
@@ -31,7 +31,7 @@ var events = [
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
     },
     'talks': [
-      {'author': 'Pijus Navickas', 'title': 'What's Up With HTTP?'}
+      {'author': 'Pijus Navickas', 'title': 'What’s Up With HTTP?'}
       {'author': 'Šarūnas Jankūnas', 'title': 'Case Study: Optimizing Performance of Spring Boot Applications?'}
     ]
   },
