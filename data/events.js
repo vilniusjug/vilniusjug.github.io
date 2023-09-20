@@ -31,7 +31,7 @@ var events = [
       'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
     },
     'talks': [
-      {'author': 'Pijus Navickas', 'title': 'What’s Up With HTTP?'}
+      {'author': 'Pijus Navickas', 'title': 'What’s Up With HTTP?'},
       {'author': 'Šarūnas Jankūnas', 'title': 'Case Study: Optimizing Performance of Spring Boot Applications?'}
     ]
   },
