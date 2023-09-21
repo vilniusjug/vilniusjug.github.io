@@ -1,5 +1,41 @@
 var events = [
   {
+    'id': '81',
+    'type': 'Vilnius JUG',
+    'date': '2023-01-17',
+    'time': '18:30',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug81.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix new office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Milda Glebauskaitė', 'title': 'A Look into IntelliJ Platform'},
+      {'author': 'Gediminas Rimša', 'title': 'An Object-Oriented Talk'}
+    ]
+  },
+  {
+    'id': '80',
+    'type': 'Vilnius JUG',
+    'date': '2022-12-14',
+    'time': '18:30',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug80.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix new office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Pijus Navickas', 'title': 'What’s Up With HTTP?'},
+      {'author': 'Šarūnas Jankūnas', 'title': 'Case Study: Optimizing Performance of Spring Boot Applications?'}
+    ]
+  },
+  {
     'id': '79',
     'type': 'Vilnius JUG',
     'date': '2020-02-06',
