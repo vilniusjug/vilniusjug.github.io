@@ -1,5 +1,22 @@
 var events = [
   {
+    'id': '82',
+    'type': 'Vilnius JUG',
+    'date': '2023-11-16',
+    'time': '18:30',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://www.eventbrite.com/e/vilnius-jug-meetup-82-tickets-748287747797?aff=oddtdtcreator'
+    },
+    'venue': {
+      'title': 'Wix new office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Venkat Subramaniam', 'title': 'Choose Delegation Over Inheritance, Really?'}
+    ]
+  },
+  {
     'id': '81',
     'type': 'Vilnius JUG',
     'date': '2023-01-17',
