@@ -1,5 +1,23 @@
 var events = [
   {
+    'id': '83',
+    'type': 'Vilnius JUG',
+    'date': '2024-01-31',
+    'time': '18:30',
+    'registration': {
+      'title': 'Facebook',
+      'url': 'https://www.facebook.com/events/3322990664657946'
+    },
+    'venue': {
+      'title': 'Wix new office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Ina Bumštein', 'title': 'Testai - mūsų geriausi draugai'},
+      {'author': 'Tomaš Jurevič', 'title': '2 Factor Authentication (OTP Edition)'}
+    ]
+  },
+  {
     'id': '82',
     'type': 'Vilnius JUG',
     'date': '2023-11-16',
