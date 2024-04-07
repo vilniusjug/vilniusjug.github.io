@@ -1,4 +1,21 @@
 var events = [
+   {
+    'id': '84',
+    'type': 'Vilnius JUG',
+    'date': '2024-04-04',
+    'time': '19:00',
+    'registration': {
+      'title': 'Facebook',
+      'url': 'https://www.facebook.com/events/1588857285210518'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Johannes Bechberger', 'title': 'Writing a Java Profiler in Pure Java'}
+    ]
+  },
   {
     'id': '83',
     'type': 'Vilnius JUG',
