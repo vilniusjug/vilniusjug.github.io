@@ -1,3 +1,9 @@
+.conf {
+  height: 100px;
+  padding: 80px;
+  font-size: xx-large;  
+}
+
 .header {
   text-align: center;
   font-family: sans-serif;
