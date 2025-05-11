@@ -1,5 +1,41 @@
 var events = [
    {
+    'id': '86',
+    'type': 'Vilnius JUG',
+    'date': '2025-05-21',
+    'time': '18:30',
+    'registration': {
+      'title': 'Facebook',
+      'url': 'https://www.facebook.com/events/484368074762566'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Andres Almiray', 'title': 'Building AI powered applications with Java'},
+      {'author': 'Harry Kimpel', 'title': 'Observing all the things: Apache Kafka® and Apache Flink® with OpenTelemetry'}
+    ]
+   },
+   {
+    'id': '85',
+    'type': 'Vilnius JUG',
+    'date': '2024-12-05',
+    'time': '18:30',
+    'registration': {
+      'title': 'Facebook',
+      'url': 'https://www.facebook.com/events/1553868161905626'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Ina Bumštein', 'title': 'Conferences. Story of Devoxx Belgium 2024'},
+      {'author': 'Andrey Adomovich', 'title': 'Supply chain attacks: examples and mitigation'}
+    ]
+   },
+   {
     'id': '84',
     'type': 'Vilnius JUG',
     'date': '2024-04-04',
