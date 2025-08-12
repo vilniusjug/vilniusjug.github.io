@@ -1,5 +1,22 @@
 var events = [
    {
+    'id': '87',
+    'type': 'Vilnius JUG',
+    'date': '2025-08-12',
+    'time': '18:30',
+    'registration': {
+      'title': 'Facebook',
+      'url': 'https://www.facebook.com/events/484368074762566'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Li Haoyi', 'title': 'Simpler Java Build Tools with Object Oriented Programming'}
+    ]
+   },
+   {
     'id': '86',
     'type': 'Vilnius JUG',
     'date': '2025-05-21',
