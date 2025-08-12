@@ -6,7 +6,7 @@ var events = [
     'time': '18:30',
     'registration': {
       'title': 'Facebook',
-      'url': 'https://www.facebook.com/events/484368074762566'
+      'url': 'https://fb.me/e/63mvNE4BV'
     },
     'venue': {
       'title': 'Wix Vilnius office',
