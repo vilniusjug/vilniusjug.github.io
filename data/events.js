@@ -1,4 +1,22 @@
 var events = [
+    {
+    'id': '88',
+    'type': 'Vilnius JUG',
+    'date': '2025-11-13',
+    'time': '18:30',
+    'registration': {
+      'title': 'Facebook',
+      'url': 'https://fb.me/e/95RwaBe1D'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Bruno Ferreira de Souza', 'title': 'Developer Career Masterplan'},
+      {'author': 'Martynas Mickevičius', 'title': 'Composable Stream Processing with Gatherers'}
+    ]
+   },
    {
     'id': '87',
     'type': 'Vilnius JUG',
