@@ -1,5 +1,23 @@
 var events = [
-    {
+   {
+    'id': '89',
+    'type': 'Vilnius JUG',
+    'date': '2025-12-04',
+    'time': '18:20',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug89.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Ina Bumstein', 'title': 'Unconference. What it is?'},
+      {'author': 'Mohammed Aboullaite', 'title': 'Reliable AI apps'}
+    ]
+   },
+   {
     'id': '88',
     'type': 'Vilnius JUG',
     'date': '2025-11-13',
