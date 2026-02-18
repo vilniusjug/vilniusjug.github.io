@@ -1,5 +1,23 @@
 var events = [
    {
+    'id': '90',
+    'type': 'Vilnius JUG',
+    'date': '2026-02-25',
+    'time': '18:20',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug90.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Volia Sidoryk', 'title': 'No PDCA, No Improvement (lightning talk)'},
+      {'author': 'Aurimas Niekis', 'title': 'Why/How to Build a Custom Framework'}
+    ]
+   },
+   {
     'id': '89',
     'type': 'Vilnius JUG',
     'date': '2025-12-04',
