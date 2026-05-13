@@ -1,5 +1,22 @@
 var events = [
    {
+    'id': '91',
+    'type': 'Vilnius JUG',
+    'date': '2026-05-20',
+    'time': '18:20',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug91.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Gerrit Grunwald', 'title': 'We hate code - The !joy of maintaining dead code'}
+    ]
+   },
+   {
     'id': '90',
     'type': 'Vilnius JUG',
     'date': '2026-02-25',
