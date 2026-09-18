@@ -1,5 +1,23 @@
 var events = [
    {
+    'id': '93',
+    'type': 'Vilnius JUG',
+    'date': '2026-09-24',
+    'time': '18:30',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug93.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'Gintaras Matulas', 'title': 'The Operator Pattern: Extending Kubernetes with Java'},
+      {'author': 'Augustas Bastys', 'title': 'When Microservices Don’t Make Sense'}
+    ]
+   },
+   {
     'id': '92',
     'type': 'Vilnius JUG',
     'date': '2026-06-10',
