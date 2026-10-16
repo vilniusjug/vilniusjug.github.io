@@ -1,5 +1,23 @@
 var events = [
    {
+    'id': '94',
+    'type': 'Vilnius JUG',
+    'date': '2026-10-22',
+    'time': '18:30',
+    'registration': {
+      'title': 'Eventbrite',
+      'url': 'https://vilniusjug94.eventbrite.com'
+    },
+    'venue': {
+      'title': 'Wix Vilnius office',
+      'map_url': 'https://goo.gl/maps/cRSfKnauH4F2'
+    },
+    'talks': [
+      {'author': 'François Martin', 'title': 'The Operator Pattern: From Bugs to Brilliance: Testing Toolbox in Action'},
+      {'author': 'Philip Riecks', 'title': 'The Spring Test Profiler: Cut Down Your Test Execution Time by 70%'}
+    ]
+   },
+   {
     'id': '93',
     'type': 'Vilnius JUG',
     'date': '2026-09-24',
