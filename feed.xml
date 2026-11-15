@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vilnius JUG</title>
+    <link>https://vilnius-jug.lt/</link>
+    <description>Vilnius JUG (Java User Group) events</description>
+    <language>en</language>
+    <atom:link href="https://vilnius-jug.lt/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vilnius JUG #95 – 2026-11-17 18:30</title>
+      <link>https://vilniusjug95.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-95</guid>
+      <pubDate>Tue, 17 Nov 2026 16:30:00 GMT</pubDate>
+      <description>Bruno Souza: 7 Ways You Can Build an Amazing Dev Career in the AI Era&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://vilniusjug95.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #94 – 2026-10-22 18:30</title>
+      <link>https://vilniusjug94.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-94</guid>
+      <pubDate>Thu, 22 Oct 2026 15:30:00 GMT</pubDate>
+      <description>François Martin: The Operator Pattern: From Bugs to Brilliance: Testing Toolbox in Action&lt;br&gt;Philip Riecks: The Spring Test Profiler: Cut Down Your Test Execution Time by 70%&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://vilniusjug94.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #93 – 2026-09-24 18:30</title>
+      <link>https://vilniusjug93.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-93</guid>
+      <pubDate>Thu, 24 Sep 2026 15:30:00 GMT</pubDate>
+      <description>Gintaras Matulas: The Operator Pattern: Extending Kubernetes with Java&lt;br&gt;Augustas Bastys: When Microservices Don’t Make Sense&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://vilniusjug93.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #92 – 2026-06-10 18:20</title>
+      <link>https://vilniusjug92.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-92</guid>
+      <pubDate>Wed, 10 Jun 2026 15:20:00 GMT</pubDate>
+      <description>Sebastian Kühnau: Modern Full-stack Java: Building UIs without writing a single line of CSS/JS&lt;br&gt;Laurynas Remeika: Project loom: Virtual threads &amp; Structured Concurrency&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://vilniusjug92.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #91 – 2026-05-20 18:20</title>
+      <link>https://vilniusjug91.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-91</guid>
+      <pubDate>Wed, 20 May 2026 15:20:00 GMT</pubDate>
+      <description>Gerrit Grunwald: We hate code - The !joy of maintaining dead code&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://vilniusjug91.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #90 – 2026-02-25 18:20</title>
+      <link>https://vilniusjug90.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-90</guid>
+      <pubDate>Wed, 25 Feb 2026 16:20:00 GMT</pubDate>
+      <description>Volia Sidoryk: No PDCA, No Improvement (lightning talk)&lt;br&gt;Aurimas Niekis: Why/How to Build a Custom Framework&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://vilniusjug90.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #89 – 2025-12-04 18:20</title>
+      <link>https://vilniusjug89.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-89</guid>
+      <pubDate>Thu, 04 Dec 2025 16:20:00 GMT</pubDate>
+      <description>Ina Bumstein: Unconference. What it is?&lt;br&gt;Mohammed Aboullaite: Reliable AI apps&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://vilniusjug89.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #88 – 2025-11-13 18:30</title>
+      <link>https://fb.me/e/95RwaBe1D</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-88</guid>
+      <pubDate>Thu, 13 Nov 2025 16:30:00 GMT</pubDate>
+      <description>Bruno Ferreira de Souza: Developer Career Masterplan&lt;br&gt;Martynas Mickevičius: Composable Stream Processing with Gatherers&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://fb.me/e/95RwaBe1D</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #87 – 2025-08-12 18:30</title>
+      <link>https://fb.me/e/63mvNE4BV</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-87</guid>
+      <pubDate>Tue, 12 Aug 2025 15:30:00 GMT</pubDate>
+      <description>Li Haoyi: Simpler Java Build Tools with Object Oriented Programming&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://fb.me/e/63mvNE4BV</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #86 – 2025-05-21 18:30</title>
+      <link>https://www.facebook.com/events/484368074762566</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-86</guid>
+      <pubDate>Wed, 21 May 2025 15:30:00 GMT</pubDate>
+      <description>Andres Almiray: Building AI powered applications with Java&lt;br&gt;Harry Kimpel: Observing all the things: Apache Kafka® and Apache Flink® with OpenTelemetry&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://www.facebook.com/events/484368074762566</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #85 – 2024-12-05 18:30</title>
+      <link>https://www.facebook.com/events/1553868161905626</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-85</guid>
+      <pubDate>Thu, 05 Dec 2024 16:30:00 GMT</pubDate>
+      <description>Ina Bumštein: Conferences. Story of Devoxx Belgium 2024&lt;br&gt;Andrey Adomovich: Supply chain attacks: examples and mitigation&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://www.facebook.com/events/1553868161905626</description>
+    </item>
+    <item>
+      <title>Vilnius JUG Conf – 2024-06-18 13:00</title>
+      <link>https://conf.vilnius-jug.lt</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-conf-2024</guid>
+      <pubDate>Tue, 18 Jun 2024 10:00:00 GMT</pubDate>
+      <description>Venue: Wix Vilnius office&lt;br&gt;Registration: https://conf.vilnius-jug.lt</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #84 – 2024-04-04 19:00</title>
+      <link>https://www.facebook.com/events/1588857285210518</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-84</guid>
+      <pubDate>Thu, 04 Apr 2024 16:00:00 GMT</pubDate>
+      <description>Johannes Bechberger: Writing a Java Profiler in Pure Java&lt;br&gt;Venue: Wix Vilnius office&lt;br&gt;Registration: https://www.facebook.com/events/1588857285210518</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #83 – 2024-01-31 18:30</title>
+      <link>https://www.facebook.com/events/3322990664657946</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-83</guid>
+      <pubDate>Wed, 31 Jan 2024 16:30:00 GMT</pubDate>
+      <description>Ina Bumštein: Testai - mūsų geriausi draugai&lt;br&gt;Tomaš Jurevič: 2 Factor Authentication (OTP Edition)&lt;br&gt;Venue: Wix new office&lt;br&gt;Registration: https://www.facebook.com/events/3322990664657946</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #82 – 2023-11-16 18:30</title>
+      <link>https://www.eventbrite.com/e/vilnius-jug-meetup-82-tickets-748287747797?aff=oddtdtcreator</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-82</guid>
+      <pubDate>Thu, 16 Nov 2023 16:30:00 GMT</pubDate>
+      <description>Venkat Subramaniam: Choose Delegation Over Inheritance, Really?&lt;br&gt;Venue: Wix new office&lt;br&gt;Registration: https://www.eventbrite.com/e/vilnius-jug-meetup-82-tickets-748287747797?aff=oddtdtcreator</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #81 – 2023-01-17 18:30</title>
+      <link>https://vilniusjug81.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-81</guid>
+      <pubDate>Tue, 17 Jan 2023 16:30:00 GMT</pubDate>
+      <description>Milda Glebauskaitė: A Look into IntelliJ Platform&lt;br&gt;Gediminas Rimša: An Object-Oriented Talk&lt;br&gt;Venue: Wix new office&lt;br&gt;Registration: https://vilniusjug81.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #80 – 2022-12-14 18:30</title>
+      <link>https://vilniusjug80.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-80</guid>
+      <pubDate>Wed, 14 Dec 2022 16:30:00 GMT</pubDate>
+      <description>Pijus Navickas: What’s Up With HTTP?&lt;br&gt;Šarūnas Jankūnas: Case Study: Optimizing Performance of Spring Boot Applications?&lt;br&gt;Venue: Wix new office&lt;br&gt;Registration: https://vilniusjug80.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #79 – 2020-02-06 19:00</title>
+      <link>https://vilniusjug79.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-79</guid>
+      <pubDate>Thu, 06 Feb 2020 17:00:00 GMT</pubDate>
+      <description>Andrzej Grzesik: Scooby RAM, where are you?&lt;br&gt;Venue: Swedbank&lt;br&gt;Registration: https://vilniusjug79.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #78 – 2019-12-12 19:00</title>
+      <link>https://vilniusjug78.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-78</guid>
+      <pubDate>Thu, 12 Dec 2019 17:00:00 GMT</pubDate>
+      <description>Dionizas Antipenkovas: Embedded Analytics through Data API&lt;br&gt;Kasparas Rudokas: Competitive Programming: Team LT&lt;br&gt;Venue: Swedbank&lt;br&gt;Registration: https://vilniusjug78.eventbrite.com</description>
+    </item>
+    <item>
+      <title>Vilnius JUG #77 – 2019-09-18 19:00</title>
+      <link>https://vilniusjug77.eventbrite.com</link>
+      <guid isPermaLink="false">https://vilnius-jug.lt/#event-77</guid>
+      <pubDate>Wed, 18 Sep 2019 16:00:00 GMT</pubDate>
+      <description>Brigyda Pliška: Clean It Good (a.k.a. JVM GC)&lt;br&gt;Edgars Letinskis: Burn-Out Syndrome and Why Should You Take It Seriously&lt;br&gt;Venue: Swedbank&lt;br&gt;Registration: https://vilniusjug77.eventbrite.com</description>
+    </item>
+  </channel>
+</rss>

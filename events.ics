@@ -1,0 +1,1269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vilnius JUG//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vilnius JUG
+X-WR-TIMEZONE:Europe/Vilnius
+BEGIN:VEVENT
+UID:95@vilnius-jug.lt
+DTSTAMP:20261117T163000Z
+DTSTART:20261117T163000Z
+DTEND:20261117T183000Z
+SUMMARY:Vilnius JUG #95
+DESCRIPTION:Bruno Souza: 7 Ways You Can Build an Amazing Dev Career in the 
+ AI Era\nVenue: Wix Vilnius office\nRegistration: https://vilniusjug95.even
+ tbrite.com
+LOCATION:Wix Vilnius office
+URL:https://vilniusjug95.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94@vilnius-jug.lt
+DTSTAMP:20261022T153000Z
+DTSTART:20261022T153000Z
+DTEND:20261022T173000Z
+SUMMARY:Vilnius JUG #94
+DESCRIPTION:François Martin: The Operator Pattern: From Bugs to Brilliance
+ : Testing Toolbox in Action\nPhilip Riecks: The Spring Test Profiler: Cut 
+ Down Your Test Execution Time by 70%\nVenue: Wix Vilnius office\nRegistrat
+ ion: https://vilniusjug94.eventbrite.com
+LOCATION:Wix Vilnius office
+URL:https://vilniusjug94.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:93@vilnius-jug.lt
+DTSTAMP:20260924T153000Z
+DTSTART:20260924T153000Z
+DTEND:20260924T173000Z
+SUMMARY:Vilnius JUG #93
+DESCRIPTION:Gintaras Matulas: The Operator Pattern: Extending Kubernetes wi
+ th Java\nAugustas Bastys: When Microservices Don’t Make Sense\nVenue: Wi
+ x Vilnius office\nRegistration: https://vilniusjug93.eventbrite.com
+LOCATION:Wix Vilnius office
+URL:https://vilniusjug93.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:92@vilnius-jug.lt
+DTSTAMP:20260610T152000Z
+DTSTART:20260610T152000Z
+DTEND:20260610T172000Z
+SUMMARY:Vilnius JUG #92
+DESCRIPTION:Sebastian Kühnau: Modern Full-stack Java: Building UIs without
+  writing a single line of CSS/JS\nLaurynas Remeika: Project loom: Virtual 
+ threads & Structured Concurrency\nVenue: Wix Vilnius office\nRegistration:
+  https://vilniusjug92.eventbrite.com
+LOCATION:Wix Vilnius office
+URL:https://vilniusjug92.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:91@vilnius-jug.lt
+DTSTAMP:20260520T152000Z
+DTSTART:20260520T152000Z
+DTEND:20260520T172000Z
+SUMMARY:Vilnius JUG #91
+DESCRIPTION:Gerrit Grunwald: We hate code - The !joy of maintaining dead co
+ de\nVenue: Wix Vilnius office\nRegistration: https://vilniusjug91.eventbri
+ te.com
+LOCATION:Wix Vilnius office
+URL:https://vilniusjug91.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:90@vilnius-jug.lt
+DTSTAMP:20260225T162000Z
+DTSTART:20260225T162000Z
+DTEND:20260225T182000Z
+SUMMARY:Vilnius JUG #90
+DESCRIPTION:Volia Sidoryk: No PDCA\, No Improvement (lightning talk)\nAurim
+ as Niekis: Why/How to Build a Custom Framework\nVenue: Wix Vilnius office\
+ nRegistration: https://vilniusjug90.eventbrite.com
+LOCATION:Wix Vilnius office
+URL:https://vilniusjug90.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:89@vilnius-jug.lt
+DTSTAMP:20251204T162000Z
+DTSTART:20251204T162000Z
+DTEND:20251204T182000Z
+SUMMARY:Vilnius JUG #89
+DESCRIPTION:Ina Bumstein: Unconference. What it is?\nMohammed Aboullaite: R
+ eliable AI apps\nVenue: Wix Vilnius office\nRegistration: https://vilniusj
+ ug89.eventbrite.com
+LOCATION:Wix Vilnius office
+URL:https://vilniusjug89.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:88@vilnius-jug.lt
+DTSTAMP:20251113T163000Z
+DTSTART:20251113T163000Z
+DTEND:20251113T183000Z
+SUMMARY:Vilnius JUG #88
+DESCRIPTION:Bruno Ferreira de Souza: Developer Career Masterplan\nMartynas 
+ Mickevičius: Composable Stream Processing with Gatherers\nVenue: Wix Viln
+ ius office\nRegistration: https://fb.me/e/95RwaBe1D
+LOCATION:Wix Vilnius office
+URL:https://fb.me/e/95RwaBe1D
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:87@vilnius-jug.lt
+DTSTAMP:20250812T153000Z
+DTSTART:20250812T153000Z
+DTEND:20250812T173000Z
+SUMMARY:Vilnius JUG #87
+DESCRIPTION:Li Haoyi: Simpler Java Build Tools with Object Oriented Program
+ ming\nVenue: Wix Vilnius office\nRegistration: https://fb.me/e/63mvNE4BV
+LOCATION:Wix Vilnius office
+URL:https://fb.me/e/63mvNE4BV
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:86@vilnius-jug.lt
+DTSTAMP:20250521T153000Z
+DTSTART:20250521T153000Z
+DTEND:20250521T173000Z
+SUMMARY:Vilnius JUG #86
+DESCRIPTION:Andres Almiray: Building AI powered applications with Java\nHar
+ ry Kimpel: Observing all the things: Apache Kafka® and Apache Flink® wit
+ h OpenTelemetry\nVenue: Wix Vilnius office\nRegistration: https://www.face
+ book.com/events/484368074762566
+LOCATION:Wix Vilnius office
+URL:https://www.facebook.com/events/484368074762566
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85@vilnius-jug.lt
+DTSTAMP:20241205T163000Z
+DTSTART:20241205T163000Z
+DTEND:20241205T183000Z
+SUMMARY:Vilnius JUG #85
+DESCRIPTION:Ina Bumštein: Conferences. Story of Devoxx Belgium 2024\nAndre
+ y Adomovich: Supply chain attacks: examples and mitigation\nVenue: Wix Vil
+ nius office\nRegistration: https://www.facebook.com/events/155386816190562
+ 6
+LOCATION:Wix Vilnius office
+URL:https://www.facebook.com/events/1553868161905626
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-2024@vilnius-jug.lt
+DTSTAMP:20240618T100000Z
+DTSTART:20240618T100000Z
+DTEND:20240618T120000Z
+SUMMARY:Vilnius JUG Conf
+DESCRIPTION:Venue: Wix Vilnius office\nRegistration: https://conf.vilnius-j
+ ug.lt
+LOCATION:Wix Vilnius office
+URL:https://conf.vilnius-jug.lt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:84@vilnius-jug.lt
+DTSTAMP:20240404T160000Z
+DTSTART:20240404T160000Z
+DTEND:20240404T180000Z
+SUMMARY:Vilnius JUG #84
+DESCRIPTION:Johannes Bechberger: Writing a Java Profiler in Pure Java\nVenu
+ e: Wix Vilnius office\nRegistration: https://www.facebook.com/events/15888
+ 57285210518
+LOCATION:Wix Vilnius office
+URL:https://www.facebook.com/events/1588857285210518
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83@vilnius-jug.lt
+DTSTAMP:20240131T163000Z
+DTSTART:20240131T163000Z
+DTEND:20240131T183000Z
+SUMMARY:Vilnius JUG #83
+DESCRIPTION:Ina Bumštein: Testai - mūsų geriausi draugai\nTomaš Jurevi
+ č: 2 Factor Authentication (OTP Edition)\nVenue: Wix new office\nRegistra
+ tion: https://www.facebook.com/events/3322990664657946
+LOCATION:Wix new office
+URL:https://www.facebook.com/events/3322990664657946
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:82@vilnius-jug.lt
+DTSTAMP:20231116T163000Z
+DTSTART:20231116T163000Z
+DTEND:20231116T183000Z
+SUMMARY:Vilnius JUG #82
+DESCRIPTION:Venkat Subramaniam: Choose Delegation Over Inheritance\, Really
+ ?\nVenue: Wix new office\nRegistration: https://www.eventbrite.com/e/vilni
+ us-jug-meetup-82-tickets-748287747797?aff=oddtdtcreator
+LOCATION:Wix new office
+URL:https://www.eventbrite.com/e/vilnius-jug-meetup-82-tickets-748287747797
+ ?aff=oddtdtcreator
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81@vilnius-jug.lt
+DTSTAMP:20230117T163000Z
+DTSTART:20230117T163000Z
+DTEND:20230117T183000Z
+SUMMARY:Vilnius JUG #81
+DESCRIPTION:Milda Glebauskaitė: A Look into IntelliJ Platform\nGediminas R
+ imša: An Object-Oriented Talk\nVenue: Wix new office\nRegistration: https
+ ://vilniusjug81.eventbrite.com
+LOCATION:Wix new office
+URL:https://vilniusjug81.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:80@vilnius-jug.lt
+DTSTAMP:20221214T163000Z
+DTSTART:20221214T163000Z
+DTEND:20221214T183000Z
+SUMMARY:Vilnius JUG #80
+DESCRIPTION:Pijus Navickas: What’s Up With HTTP?\nŠarūnas Jankūnas: Ca
+ se Study: Optimizing Performance of Spring Boot Applications?\nVenue: Wix 
+ new office\nRegistration: https://vilniusjug80.eventbrite.com
+LOCATION:Wix new office
+URL:https://vilniusjug80.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:79@vilnius-jug.lt
+DTSTAMP:20200206T170000Z
+DTSTART:20200206T170000Z
+DTEND:20200206T190000Z
+SUMMARY:Vilnius JUG #79
+DESCRIPTION:Andrzej Grzesik: Scooby RAM\, where are you?\nVenue: Swedbank\n
+ Registration: https://vilniusjug79.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug79.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78@vilnius-jug.lt
+DTSTAMP:20191212T170000Z
+DTSTART:20191212T170000Z
+DTEND:20191212T190000Z
+SUMMARY:Vilnius JUG #78
+DESCRIPTION:Dionizas Antipenkovas: Embedded Analytics through Data API\nKas
+ paras Rudokas: Competitive Programming: Team LT\nVenue: Swedbank\nRegistra
+ tion: https://vilniusjug78.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug78.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:77@vilnius-jug.lt
+DTSTAMP:20190918T160000Z
+DTSTART:20190918T160000Z
+DTEND:20190918T180000Z
+SUMMARY:Vilnius JUG #77
+DESCRIPTION:Brigyda Pliška: Clean It Good (a.k.a. JVM GC)\nEdgars Letinski
+ s: Burn-Out Syndrome and Why Should You Take It Seriously\nVenue: Swedbank
+ \nRegistration: https://vilniusjug77.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug77.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76@vilnius-jug.lt
+DTSTAMP:20190620T160000Z
+DTSTART:20190620T160000Z
+DTEND:20190620T180000Z
+SUMMARY:Vilnius Scala #76
+DESCRIPTION:Martynas Mickevičius: Scala Days Overview\nVenue: Wix new offi
+ ce\nRegistration: https://vilniusscala9.eventbrite.com
+LOCATION:Wix new office
+URL:https://vilniusscala9.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:75@vilnius-jug.lt
+DTSTAMP:20190523T160000Z
+DTSTART:20190523T160000Z
+DTEND:20190523T180000Z
+SUMMARY:Vilnius JUG #75
+DESCRIPTION:Saulius Tvarijonas: Introduction to Kafka\nMike Ensor: End-to-E
+ nd cloud-native development with Spring\nVenue: Swedbank\nRegistration: ht
+ tps://vilniusjug75.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug75.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:74@vilnius-jug.lt
+DTSTAMP:20190313T170000Z
+DTSTART:20190313T170000Z
+DTEND:20190313T190000Z
+SUMMARY:Vilnius JUG #74
+DESCRIPTION:Osvaldas Grigas: Good Enough Tests\nViačeslav Pozdniakov: Swit
+ ching to Asynchronous RPC Stack\nVenue: Swedbank\nRegistration: https://vi
+ lniusjug74.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug74.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73@vilnius-jug.lt
+DTSTAMP:20190227T170000Z
+DTSTART:20190227T170000Z
+DTEND:20190227T190000Z
+SUMMARY:Vilnius Scala #73
+DESCRIPTION:Laurynas Lubys: Nutri-matric: A library generating random value
+ s for testing.\nMartynas Mickevičius: What’s new in Scala 3?\nVenue: Wi
+ x new office\nRegistration: https://vilniusscala8.eventbrite.com
+LOCATION:Wix new office
+URL:https://vilniusscala8.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:72@vilnius-jug.lt
+DTSTAMP:20190109T170000Z
+DTSTART:20190109T170000Z
+DTEND:20190109T190000Z
+SUMMARY:Vilnius JUG #72
+DESCRIPTION:Pijus Navickas: First date with GraalVM\nMilda Glebauskaitė: B
+ reaking language barriers with GraalVMs polyglotism\nLaurynas Lubys: Graal
+ : Using JVM libraries in Node.js\nVenue: Swedbank\nRegistration: https://v
+ ilniusjug72.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug72.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:71@vilnius-jug.lt
+DTSTAMP:20181120T170000Z
+DTSTART:20181120T170000Z
+DTEND:20181120T190000Z
+SUMMARY:Vilnius Scala #71
+DESCRIPTION:Linas Medžiūnas: Comprehending the for-comprehension\nVenue: 
+ Wix new office\nRegistration: https://vilniusjug71.eventbrite.com
+LOCATION:Wix new office
+URL:https://vilniusjug71.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70@vilnius-jug.lt
+DTSTAMP:20181025T160000Z
+DTSTART:20181025T160000Z
+DTEND:20181025T180000Z
+SUMMARY:Vilnius JUG #70
+DESCRIPTION:Anton Arhipov: New & cool in IntelliJ IDEA\nPranas Sasnauskas: 
+ Internet of Things. Chapter 1: Basics\nVenue: Swedbank\nRegistration: http
+ s://vilniusjug70.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug70.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69@vilnius-jug.lt
+DTSTAMP:20180925T160000Z
+DTSTART:20180925T160000Z
+DTEND:20180925T180000Z
+SUMMARY:Vilnius JUG #69
+DESCRIPTION:Vitaly Sekunov: The Magnificent World of the Airlines\nEduards 
+ Sizovs\,Andrey Adamovich: How we built Dev.Tube\nDarja Krizska-Popova: Net
+ working Icebreakers or How to make use of the Networking Sessions at Tech 
+ Conferences\nVenue: Swedbank\nRegistration: https://vilniusjug69.eventbrit
+ e.com
+LOCATION:Swedbank
+URL:https://vilniusjug69.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68@vilnius-jug.lt
+DTSTAMP:20180509T160000Z
+DTSTART:20180509T160000Z
+DTEND:20180509T180000Z
+SUMMARY:Vilnius JUG #68
+DESCRIPTION:Steve Poole: Are you ready for Cloud Native Java?\nVenue: Swedb
+ ank\nRegistration: https://vilniusjug68.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug68.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:67@vilnius-jug.lt
+DTSTAMP:20180509T160000Z
+DTSTART:20180509T160000Z
+DTEND:20180509T180000Z
+SUMMARY:Vilnius JUG #67
+DESCRIPTION:Dainius Vaznys: How we stopped using Hibernate\nMatas Tvarijona
+ s: Running multi continent private cloud powered by OpenStack\nVenue: Swed
+ bank\nRegistration: https://vilniusjug67.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug67.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:66@vilnius-jug.lt
+DTSTAMP:20180502T160000Z
+DTSTART:20180502T160000Z
+DTEND:20180502T180000Z
+SUMMARY:Vilnius Scala #66
+DESCRIPTION:Linas Medžiūnas: Scala pattern matching: apply the unapply\nV
+ enue: Wix new office\nRegistration: https://vilniusjug66.eventbrite.com
+LOCATION:Wix new office
+URL:https://vilniusjug66.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:65@vilnius-jug.lt
+DTSTAMP:20180418T160000Z
+DTSTART:20180418T160000Z
+DTEND:20180418T180000Z
+SUMMARY:Vilnius JUG #65
+DESCRIPTION:Uwe Friedrichsen: The promises and perils of microservices\nVen
+ ue: Best Western\, Granito salė\nRegistration: https://vilniusjug65.event
+ brite.com
+LOCATION:Best Western\, Granito salė
+URL:https://vilniusjug65.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:64@vilnius-jug.lt
+DTSTAMP:20180221T170000Z
+DTSTART:20180221T170000Z
+DTEND:20180221T190000Z
+SUMMARY:Vilnius JUG #64
+DESCRIPTION:Dominic Bevacqua: Multi-dimensional points in Elasticsearch\nVo
+ lodymyr Tsukur: GraphQL - APIs the New Way\nVenue: Swedbank\nRegistration:
+  https://vilniusjug64.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug64.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:63@vilnius-jug.lt
+DTSTAMP:20171116T163000Z
+DTSTART:20171116T163000Z
+DTEND:20171116T183000Z
+SUMMARY:Vilnius JUG #63
+DESCRIPTION:Juergen Hoeller: Spring Framework 5: Themes & Trends\nJuergen H
+ oeller: Spring Framework 5: Hidden Gems\nVenue: Best Western\, Granito sal
+ ė\nRegistration: https://vilniusjug63.eventbrite.com
+LOCATION:Best Western\, Granito salė
+URL:https://vilniusjug63.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:62@vilnius-jug.lt
+DTSTAMP:20171111T074500Z
+DTSTART:20171111T074500Z
+DTEND:20171111T094500Z
+SUMMARY:Vilnius JUG #62
+DESCRIPTION:Venkat Subramaniam: Exploring Java 9\nVenkat Subramaniam: From 
+ Functional to Reactive Programming\nVenue: Swedbank\nRegistration: https:/
+ /vilniusjug62.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug62.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:61@vilnius-jug.lt
+DTSTAMP:20171011T160000Z
+DTSTART:20171011T160000Z
+DTEND:20171011T180000Z
+SUMMARY:Vilnius JUG #61
+DESCRIPTION:Eduards Sizovs: Chatbot in just 30 minutes\nAndrey Adamovich: B
+ ots at Community Service\nVenue: Swedbank\nRegistration: https://vilniusju
+ g61.eventbrite.com
+LOCATION:Swedbank
+URL:https://vilniusjug61.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:60@vilnius-jug.lt
+DTSTAMP:20170921T160000Z
+DTSTART:20170921T160000Z
+DTEND:20170921T180000Z
+SUMMARY:Vilnius JUG #60
+DESCRIPTION:Venue: Alaus Namai\nRegistration: http://vilniusjug60.eventbrit
+ e.com
+LOCATION:Alaus Namai
+URL:http://vilniusjug60.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:59@vilnius-jug.lt
+DTSTAMP:20170809T160000Z
+DTSTART:20170809T160000Z
+DTEND:20170809T180000Z
+SUMMARY:Vilnius JUG #59
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug59.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug59.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:58@vilnius-jug.lt
+DTSTAMP:20170710T160000Z
+DTSTART:20170710T160000Z
+DTEND:20170710T180000Z
+SUMMARY:Vilnius JUG #58
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug58.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug58.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:57@vilnius-jug.lt
+DTSTAMP:20170614T160000Z
+DTSTART:20170614T160000Z
+DTEND:20170614T180000Z
+SUMMARY:Vilnius JUG #57
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug57.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug57.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:56@vilnius-jug.lt
+DTSTAMP:20170510T160000Z
+DTSTART:20170510T160000Z
+DTEND:20170510T180000Z
+SUMMARY:Vilnius JUG #56
+DESCRIPTION:Marius Vaitkus: Cascading Failures\nVaidas Pilkauskas: Understa
+ nding Git\nVenue: Swedbank\nRegistration: http://vilniusjug56.eventbrite.c
+ om
+LOCATION:Swedbank
+URL:http://vilniusjug56.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:55@vilnius-jug.lt
+DTSTAMP:20170418T160000Z
+DTSTART:20170418T160000Z
+DTEND:20170418T180000Z
+SUMMARY:Vilnius JUG #55
+DESCRIPTION:Alexey Buzdin: Annotation Processing - Why? When? How? (with Da
+ gger 2 and Lombok)\nDmitry Buzdin: Modern Security with OAuth 2.0 and JWT 
+ and Spring\nVenue: Swedbank\nRegistration: http://vilniusjug55.eventbrite.
+ com
+LOCATION:Swedbank
+URL:http://vilniusjug55.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:54@vilnius-jug.lt
+DTSTAMP:20170308T170000Z
+DTSTART:20170308T170000Z
+DTEND:20170308T190000Z
+SUMMARY:Vilnius JUG #54
+DESCRIPTION:Dalia Simons: The immor(t)ality of legacy projects\nAmit Anafy:
+  The world outside - The blind spot of TDD\nTalya Gendler: Experimenting o
+ n Humans (everything you want from an a/b testing system)\nVenue: Swedbank
+ \nRegistration: http://vilniusjug54.eventbrite.com
+LOCATION:Swedbank
+URL:http://vilniusjug54.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:53@vilnius-jug.lt
+DTSTAMP:20170213T170000Z
+DTSTART:20170213T170000Z
+DTEND:20170213T190000Z
+SUMMARY:Vilnius JUG #53
+DESCRIPTION:Martynas Mickevičius: Bringing Scala to exotic places\nVaidas 
+ Pilkauskas: An Introduction to Mutation Testing\nVenue: Wix.com\nRegistrat
+ ion: http://vilniusjug53.eventbrite.com
+LOCATION:Wix.com
+URL:http://vilniusjug53.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:52@vilnius-jug.lt
+DTSTAMP:20170111T170000Z
+DTSTART:20170111T170000Z
+DTEND:20170111T190000Z
+SUMMARY:Vilnius JUG #52
+DESCRIPTION:Paul Stack: Building Self Healing Infrastructure in the Cloud\n
+ Mantas Indrašius: No Framework\nVenue: Wix new office\nRegistration: http
+ ://vilniusjug52.eventbrite.com
+LOCATION:Wix new office
+URL:http://vilniusjug52.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:51@vilnius-jug.lt
+DTSTAMP:20161109T163000Z
+DTSTART:20161109T163000Z
+DTEND:20161109T183000Z
+SUMMARY:Vilnius JUG #51
+DESCRIPTION:Albert Businskis: IT-jitsu: Mind Efficiency and Creativity for 
+ Ninjas\nAlex Fridman: iCAN\nEduards Sizovs: Beyond Software Craftsmanship\
+ nVenue: Wix new office\nRegistration: http://vilniusjug51.eventbrite.com
+LOCATION:Wix new office
+URL:http://vilniusjug51.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50@vilnius-jug.lt
+DTSTAMP:20161012T160000Z
+DTSTART:20161012T160000Z
+DTEND:20161012T180000Z
+SUMMARY:Vilnius JUG #50
+DESCRIPTION:James Shubin: Next Generation Config Mgmt\nAvishai Ish-Shalom: 
+ StatsD: Java concurrency case study\nVenue: Wix new office\nRegistration: 
+ http://vilniusjug50.eventbrite.com
+LOCATION:Wix new office
+URL:http://vilniusjug50.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49@vilnius-jug.lt
+DTSTAMP:20160914T160000Z
+DTSTART:20160914T160000Z
+DTEND:20160914T180000Z
+SUMMARY:Vilnius JUG #49
+DESCRIPTION:Osvaldas Grigas: Building a framework-less web app\nNoam Almog:
+  An Obsessive Compulsive Guide To Clean Tests\nVenue: Wix new office\nRegi
+ stration: http://vilniusjug49.eventbrite.com
+LOCATION:Wix new office
+URL:http://vilniusjug49.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:48@vilnius-jug.lt
+DTSTAMP:20160413T160000Z
+DTSTART:20160413T160000Z
+DTEND:20160413T180000Z
+SUMMARY:Vilnius JUG #48
+DESCRIPTION:Osvaldas Grigas: Life without objects\nSaulius Narkevičius: Do
+  not get lost among UI frameworks\nVenue: Artis Hotel/Room Aida\nRegistrat
+ ion: http://vilniusjug48.eventbrite.com
+LOCATION:Artis Hotel/Room Aida
+URL:http://vilniusjug48.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47@vilnius-jug.lt
+DTSTAMP:20160330T160000Z
+DTSTART:20160330T160000Z
+DTEND:20160330T180000Z
+SUMMARY:Canceled: Vilnius Scala #47
+DESCRIPTION:Venue: Wix.com\nRegistration: http://vilniusjug47.eventbrite.co
+ m
+LOCATION:Wix.com
+URL:http://vilniusjug47.eventbrite.com
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:46@vilnius-jug.lt
+DTSTAMP:20160224T170000Z
+DTSTART:20160224T170000Z
+DTEND:20160224T190000Z
+SUMMARY:Vilnius JUG #46
+DESCRIPTION:Sam Elamin: Metrics Driven Developmen\nEnis Sanchez: undefined\
+ nVenue: Wix.com\nRegistration: http://vilniusjug46.eventbrite.com
+LOCATION:Wix.com
+URL:http://vilniusjug46.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45@vilnius-jug.lt
+DTSTAMP:20151013T160000Z
+DTSTART:20151013T160000Z
+DTEND:20151013T180000Z
+SUMMARY:Vilnius JUG #45
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug45.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug45.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:44@vilnius-jug.lt
+DTSTAMP:20150924T154500Z
+DTSTART:20150924T154500Z
+DTEND:20150924T174500Z
+SUMMARY:Vilnius JUG #44
+DESCRIPTION:Eduards Sizovs: 8 Things That Make Continuous Delivery Go Nuts\
+ nAlexander Fridman: Sales 101: Chasing Dreams\nAlexey Buzdin: Reactive 4TW
+ ! (Introduction to Reactive programming and RxJava/RxAndroid)\nAndrey Adam
+ ovich: Need for speed: tools for JVM tuning\nVenue: Wix.com\nRegistration:
+  http://vilniusjug44.eventbrite.com
+LOCATION:Wix.com
+URL:http://vilniusjug44.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:43@vilnius-jug.lt
+DTSTAMP:20150812T160000Z
+DTSTART:20150812T160000Z
+DTEND:20150812T180000Z
+SUMMARY:Vilnius JUG #43
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug43.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug43.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:42@vilnius-jug.lt
+DTSTAMP:20150708T160000Z
+DTSTART:20150708T160000Z
+DTEND:20150708T180000Z
+SUMMARY:Vilnius JUG #42
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug42.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug42.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:41@vilnius-jug.lt
+DTSTAMP:20150616T160000Z
+DTSTART:20150616T160000Z
+DTEND:20150616T180000Z
+SUMMARY:Vilnius JUG #41
+DESCRIPTION:Mindaugas Mozūras: A/B Testing Evolution\nTomasz Nurkiewicz: H
+ ystrix – Managing Failures in Distributed Systems\nVenue: Radisson Blu L
+ ietuva\, Lambda room
+LOCATION:Radisson Blu Lietuva\, Lambda room
+URL:https://vilnius-jug.lt/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:40@vilnius-jug.lt
+DTSTAMP:20150513T160000Z
+DTSTART:20150513T160000Z
+DTEND:20150513T180000Z
+SUMMARY:Vilnius JUG #40
+DESCRIPTION:Mantas Indrašius: Use Cases for Nashorn\nAurelijus Stanislovai
+ tis: XSS vs CSRF: Similarities and Differences\nVenue: Best Western\, Gint
+ aro A+B room\nRegistration: http://vilniusjug40.eventbrite.com
+LOCATION:Best Western\, Gintaro A+B room
+URL:http://vilniusjug40.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:39@vilnius-jug.lt
+DTSTAMP:20150415T160000Z
+DTSTART:20150415T160000Z
+DTEND:20150415T180000Z
+SUMMARY:Vilnius Scala #39
+DESCRIPTION:Aurelijus Banelis: Scala for GUI\nOrr Sella: True End-to-End Te
+ sting in Scala\nVenue: Wix.com\nRegistration: http://vilniusjug39.eventbri
+ te.com
+LOCATION:Wix.com
+URL:http://vilniusjug39.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:38@vilnius-jug.lt
+DTSTAMP:20150325T170000Z
+DTSTART:20150325T170000Z
+DTEND:20150325T190000Z
+SUMMARY:Vilnius JUG #38
+DESCRIPTION:Rolandas Griškevičius: Everything you wanted to know about mo
+ nads\, but were afraid to ask\nArtūras Šlajus: Quest for composable immu
+ table objects\nVenue: Swedbank\nRegistration: http://vilniusjug38.eventbri
+ te.com
+LOCATION:Swedbank
+URL:http://vilniusjug38.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:37@vilnius-jug.lt
+DTSTAMP:20150211T170000Z
+DTSTART:20150211T170000Z
+DTEND:20150211T190000Z
+SUMMARY:Vilnius Scala #37
+DESCRIPTION:Alexander Gryzlov: Declarative I/O and data flow processing wit
+ h scalaz-stream\nMartynas Mickevičius: The Akka Stream of Rhetoric and th
+ e Identity of Multimodal Composition Practices\nVenue: Wix.com\nRegistrati
+ on: http://vilniusjug37.eventbrite.com
+LOCATION:Wix.com
+URL:http://vilniusjug37.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:36@vilnius-jug.lt
+DTSTAMP:20150129T170000Z
+DTSTART:20150129T170000Z
+DTEND:20150129T190000Z
+SUMMARY:Vilnius JUG #36
+DESCRIPTION:Henrik Ingo: MongoDB for Java Developers\nMatt Heath: A Journey
+  into a Microservice World\nVenue: Radisson Blu Hotel Lietuva\, Zeta room\
+ nRegistration: http://vilniusjug36.eventbrite.com
+LOCATION:Radisson Blu Hotel Lietuva\, Zeta room
+URL:http://vilniusjug36.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:35@vilnius-jug.lt
+DTSTAMP:20141210T170000Z
+DTSTART:20141210T170000Z
+DTEND:20141210T190000Z
+SUMMARY:Vilnius JUG #35
+DESCRIPTION:Vaidas Pilkauskas: Developer Tests - Things to Know\nEimantas V
+ aičiūnas: Git Plumbing\nVenue: Vilniaus verslo uostas\nRegistration: htt
+ p://vilniusjug35.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug35.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:34@vilnius-jug.lt
+DTSTAMP:20141118T170000Z
+DTSTART:20141118T170000Z
+DTEND:20141118T190000Z
+SUMMARY:Vilnius JUG #34
+DESCRIPTION:Randy Shoup: Concurrency at Scale: Evolving to Reactive Micro-S
+ ervices\nKevlin Henney: A System Is Not a Tree\nVenue: Vilniaus verslo uos
+ tas\nRegistration: http://vilniusjug34.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug34.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:33@vilnius-jug.lt
+DTSTAMP:20141008T160000Z
+DTSTART:20141008T160000Z
+DTEND:20141008T180000Z
+SUMMARY:Vilnius Scala #33
+DESCRIPTION:Karolis Pociūnas: ORM Adventures in Scala\nViačeslav Pozdniak
+ ov: How we use Scala\nVenue: Vilniaus verslo uostas\nRegistration: http://
+ vilniusjug33.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug33.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:clojure-2@vilnius-jug.lt
+DTSTAMP:20140924T154500Z
+DTSTART:20140924T154500Z
+DTEND:20140924T174500Z
+SUMMARY:Vilnius Clojure
+DESCRIPTION:Venue: Vilniaus verslo uostas\nRegistration: http://vilnius-clo
+ jure-2.eventbrite.com/
+LOCATION:Vilniaus verslo uostas
+URL:http://vilnius-clojure-2.eventbrite.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:32@vilnius-jug.lt
+DTSTAMP:20140910T160000Z
+DTSTART:20140910T160000Z
+DTEND:20140910T180000Z
+SUMMARY:Vilnius JUG #32
+DESCRIPTION:Vytautas Dagilis: Bye Bye Cowboy-Coder days!\nDonatas Mažionis
+ : Building low latency web APIs\nVenue: Vilniaus verslo uostas\nRegistrati
+ on: http://vilniusjug32.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug32.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:31@vilnius-jug.lt
+DTSTAMP:20140813T160000Z
+DTSTART:20140813T160000Z
+DTEND:20140813T180000Z
+SUMMARY:Vilnius JUG #31
+DESCRIPTION:Venue: 7 Fridays pub\nRegistration: http://vilniusjug31.eventbr
+ ite.com
+LOCATION:7 Fridays pub
+URL:http://vilniusjug31.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30@vilnius-jug.lt
+DTSTAMP:20140728T160000Z
+DTSTART:20140728T160000Z
+DTEND:20140728T180000Z
+SUMMARY:Vilnius JUG #30
+DESCRIPTION:Venue: Wix.com\nRegistration: http://vilniusjug30.eventbrite.co
+ m
+LOCATION:Wix.com
+URL:http://vilniusjug30.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:29@vilnius-jug.lt
+DTSTAMP:20140709T160000Z
+DTSTART:20140709T160000Z
+DTEND:20140709T180000Z
+SUMMARY:Vilnius JUG #29
+DESCRIPTION:Venue: 7 Fridays pub\nRegistration: http://vilniusjug29.eventbr
+ ite.com
+LOCATION:7 Fridays pub
+URL:http://vilniusjug29.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:clojure-1@vilnius-jug.lt
+DTSTAMP:20140618T160000Z
+DTSTART:20140618T160000Z
+DTEND:20140618T180000Z
+SUMMARY:Vilnius Clojure
+DESCRIPTION:Venue: Vilniaus verslo uostas\nRegistration: http://vilnius-clo
+ jure-1.eventbrite.com/
+LOCATION:Vilniaus verslo uostas
+URL:http://vilnius-clojure-1.eventbrite.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:28@vilnius-jug.lt
+DTSTAMP:20140611T160000Z
+DTSTART:20140611T160000Z
+DTEND:20140611T180000Z
+SUMMARY:Vilnius Scala #28
+DESCRIPTION:Shai Yallin: Working asynchronously with Futures and Promises\n
+ Viačeslav Pozdniakov: Not That Simple For-loop\nVenue: Wix.com\nRegistrat
+ ion: http://vilniusjug28.eventbrite.com
+LOCATION:Wix.com
+URL:http://vilniusjug28.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:27@vilnius-jug.lt
+DTSTAMP:20140514T160000Z
+DTSTART:20140514T160000Z
+DTEND:20140514T180000Z
+SUMMARY:Vilnius JUG #27
+DESCRIPTION:Valdas Žigas: Java 8 Stream API\nRamūnas Balukonis: Research 
+ of Techmologies for Big Data\nVenue: Vilniaus verslo uostas\nRegistration:
+  http://vilniusjug27.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug27.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26@vilnius-jug.lt
+DTSTAMP:20140409T160000Z
+DTSTART:20140409T160000Z
+DTEND:20140409T180000Z
+SUMMARY:Vilnius JUG #26
+DESCRIPTION:Artūras Šlajus: Concurrency & Parallelism\nOsvaldas Grigas: E
+ nemies of Agile Design\nVenue: Vilniaus verslo uostas\nRegistration: http:
+ //vilniusjug26.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug26.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:25@vilnius-jug.lt
+DTSTAMP:20140312T170000Z
+DTSTART:20140312T170000Z
+DTEND:20140312T190000Z
+SUMMARY:Vilnius JUG #25
+DESCRIPTION:Karolis Butkus: DI: Guice vs Spring\nVaidas Pilkauskas: Java 8 
+ Date/Time API\nVenue: Vilniaus verslo uostas\nRegistration: http://vilnius
+ jug25.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug25.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:24@vilnius-jug.lt
+DTSTAMP:20140212T170000Z
+DTSTART:20140212T170000Z
+DTEND:20140212T190000Z
+SUMMARY:Vilnius JUG #24
+DESCRIPTION:Shai Yallin: How Scala Promotes TDD\nMarkus Backman: Fighting C
+ ybercrime\nVenue: Vilnius Academy of Arts\nRegistration: http://vilniusjug
+ 24.eventbrite.com/
+LOCATION:Vilnius Academy of Arts
+URL:http://vilniusjug24.eventbrite.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:23@vilnius-jug.lt
+DTSTAMP:20140108T170000Z
+DTSTART:20140108T170000Z
+DTEND:20140108T190000Z
+SUMMARY:Vilnius JUG #23
+DESCRIPTION:Venue: Bambalynė\nRegistration: http://vilniusjug23.eventbrite
+ .com
+LOCATION:Bambalynė
+URL:http://vilniusjug23.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:22@vilnius-jug.lt
+DTSTAMP:20131211T170000Z
+DTSTART:20131211T170000Z
+DTEND:20131211T190000Z
+SUMMARY:Vilnius JUG #22
+DESCRIPTION:Mindaugas Žakšauskas: Informacijos paieška ir įvadas į Luc
+ ene\nMartin Thompson: Practicing at the cutting edge: Learning and unlearn
+ ing about Java performance\nVenue: Vilniaus verslo uostas\nRegistration: h
+ ttp://vilniusjug22.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug22.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:21@vilnius-jug.lt
+DTSTAMP:20131118T170000Z
+DTSTART:20131118T170000Z
+DTEND:20131118T190000Z
+SUMMARY:Vilnius JUG #21
+DESCRIPTION:Viačeslav Pozdniakov: Property-Based Testing\nGreg Young: Even
+ tstore database and real time data in Web applications\nVenue: Vilniaus ve
+ rslo uostas\nRegistration: http://vilniusjug21.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug21.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20@vilnius-jug.lt
+DTSTAMP:20131009T160000Z
+DTSTART:20131009T160000Z
+DTEND:20131009T180000Z
+SUMMARY:Vilnius JUG #20
+DESCRIPTION:Aleksej Šipulia: Hidden magic of IntelliJ IDEA\nOsvaldas Griga
+ s: Simplicity\nGediminas Guoba: Web test automation & best practices\nVenu
+ e: Vilniaus verslo uostas\nRegistration: http://vilniusjug20.eventbrite.co
+ m
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug20.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:19@vilnius-jug.lt
+DTSTAMP:20130911T160000Z
+DTSTART:20130911T160000Z
+DTEND:20130911T180000Z
+SUMMARY:Vilnius JUG #19
+DESCRIPTION:Saulius Narkevičius\,Viačeslav Pozdniakov: Programming withou
+ t test and refactoring\nVenue: Vilniaus verslo uostas\nRegistration: http:
+ //vilniusjug19.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug19.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:18@vilnius-jug.lt
+DTSTAMP:20130815T160000Z
+DTSTART:20130815T160000Z
+DTEND:20130815T180000Z
+SUMMARY:Vilnius JUG #18
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug18.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug18.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:17@vilnius-jug.lt
+DTSTAMP:20130708T160000Z
+DTSTART:20130708T160000Z
+DTEND:20130708T180000Z
+SUMMARY:Vilnius JUG #17
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug17.eventb
+ rite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug17.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:16@vilnius-jug.lt
+DTSTAMP:20130612T160000Z
+DTSTART:20130612T160000Z
+DTEND:20130612T180000Z
+SUMMARY:Vilnius JUG #16
+DESCRIPTION:Launching Java EE 7\nVilius Kraujutis: Google I/O Overview\nVen
+ ue: Vilniaus verslo uostas\nRegistration: http://vilniusjug16.eventbrite.c
+ om
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug16.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15@vilnius-jug.lt
+DTSTAMP:20130508T160000Z
+DTSTART:20130508T160000Z
+DTEND:20130508T180000Z
+SUMMARY:Vilnius JUG #15
+DESCRIPTION:Tomas Zulgis: Wizards: Just don’t invent a bicycle\nOsvaldas 
+ Grigas: Event Sourcing & CQRS\nVenue: Vilniaus verslo uostas\nRegistration
+ : http://vilniusjug15.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug15.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:14@vilnius-jug.lt
+DTSTAMP:20130410T160000Z
+DTSTART:20130410T160000Z
+DTEND:20130410T180000Z
+SUMMARY:Vilnius JUG #14
+DESCRIPTION:Venue: Vilniaus verslo uostas\nRegistration: http://vilniusjug1
+ 4.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug14.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13@vilnius-jug.lt
+DTSTAMP:20130313T170000Z
+DTSTART:20130313T170000Z
+DTEND:20130313T190000Z
+SUMMARY:Vilnius JUG #13
+DESCRIPTION:Mantas Urbonas: Software licences\nVenue: Vilniaus verslo uosta
+ s\nRegistration: http://vilniusjug13.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug13.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:12@vilnius-jug.lt
+DTSTAMP:20130213T170000Z
+DTSTART:20130213T170000Z
+DTEND:20130213T190000Z
+SUMMARY:Vilnius JUG #12
+DESCRIPTION:Šarūnas Davalga: Journey of a web application towards Node.js
+ \nOsvaldas Grigas: TDD Dojo\nVenue: Vilniaus verslo uostas\nRegistration: 
+ http://vilniusjug12.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug12.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:11@vilnius-jug.lt
+DTSTAMP:20130109T170000Z
+DTSTART:20130109T170000Z
+DTEND:20130109T190000Z
+SUMMARY:Vilnius JUG #11
+DESCRIPTION:Jonas Lasauskas: StringTemplate: Separate your views completely
+ \nMartynas Mickevičius: Development of open source Android application\nV
+ enue: Vilniaus verslo uostas\nRegistration: http://vilniusjug11.eventbrite
+ .com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug11.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10@vilnius-jug.lt
+DTSTAMP:20121212T170000Z
+DTSTART:20121212T170000Z
+DTEND:20121212T190000Z
+SUMMARY:Vilnius JUG #10
+DESCRIPTION:Gediminas Guoba: Continuous Delivery\nVilius Kraujutis: Android
+  for Java developers\nVenue: Mega Hub Vilnius\nRegistration: http://vilniu
+ sjug10.eventbrite.com
+LOCATION:Mega Hub Vilnius
+URL:http://vilniusjug10.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9@vilnius-jug.lt
+DTSTAMP:20121114T170000Z
+DTSTART:20121114T170000Z
+DTEND:20121114T190000Z
+SUMMARY:Vilnius JUG #9
+DESCRIPTION:Osvaldas Grigas: Thinking Up Names: the Good\, the Bad and the 
+ Ugly\nVaidas Pilkauskas\,Kasparas Rudokas: Java 8\nVenue: Vilniaus verslo 
+ uostas\nRegistration: http://vilniusjug9.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug9.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8@vilnius-jug.lt
+DTSTAMP:20121010T160000Z
+DTSTART:20121010T160000Z
+DTEND:20121010T180000Z
+SUMMARY:Vilnius JUG #8
+DESCRIPTION:Martynas Jusevičius: Semantic Web\nDonatas Remeika: Intro to L
+ iquibase\nVenue: Vilniaus verslo uostas\nRegistration: http://vilniusjug8.
+ eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug8.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7@vilnius-jug.lt
+DTSTAMP:20120912T160000Z
+DTSTART:20120912T160000Z
+DTEND:20120912T180000Z
+SUMMARY:Vilnius JUG #7
+DESCRIPTION:Jonas Lasauskas: RESTful web services / JAX-RS / Jersey\nArtur 
+ Girenko: Introduction to OSGi by example\nVenue: Vilniaus verslo uostas\nR
+ egistration: http://vilniusjug7.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug7.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6@vilnius-jug.lt
+DTSTAMP:20120808T160000Z
+DTSTART:20120808T160000Z
+DTEND:20120808T180000Z
+SUMMARY:Vilnius JUG #6
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug6.eventbr
+ ite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug6.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5@vilnius-jug.lt
+DTSTAMP:20120711T160000Z
+DTSTART:20120711T160000Z
+DTEND:20120711T180000Z
+SUMMARY:Vilnius JUG #5
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug5.eventbr
+ ite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug5.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4@vilnius-jug.lt
+DTSTAMP:20120613T160000Z
+DTSTART:20120613T160000Z
+DTEND:20120613T180000Z
+SUMMARY:Vilnius JUG #4
+DESCRIPTION:Edvinas Bartkus: Groovy/Grails/Gradle\nVaidas Pilkauskas\,Kaspa
+ ras Rudokas\,Aleksej Šipulia: GeeCON 2012\nVenue: Vilniaus verslo uostas\
+ nRegistration: http://vilniusjug4.eventbrite.com
+LOCATION:Vilniaus verslo uostas
+URL:http://vilniusjug4.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3@vilnius-jug.lt
+DTSTAMP:20120509T160000Z
+DTSTART:20120509T160000Z
+DTEND:20120509T180000Z
+SUMMARY:Vilnius JUG #3
+DESCRIPTION:Artūras Girenko: Simplified DAO Layer Testing\nOsvaldas Grigas
+ : Effective Guava: Write Less\, Do More\nVenue: HUB Vilnius\nRegistration:
+  http://vilniusjug3.eventbrite.com
+LOCATION:HUB Vilnius
+URL:http://vilniusjug3.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2@vilnius-jug.lt
+DTSTAMP:20120411T160000Z
+DTSTART:20120411T160000Z
+DTEND:20120411T180000Z
+SUMMARY:Vilnius JUG #2
+DESCRIPTION:Vaidas Pilkauskas: Spring JDBC Template\nVytautas Čivilis: Jav
+ a web Startupuose\nVenue: HUB Vilnius
+LOCATION:HUB Vilnius
+URL:https://vilnius-jug.lt/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1@vilnius-jug.lt
+DTSTAMP:20120314T170000Z
+DTSTART:20120314T170000Z
+DTEND:20120314T190000Z
+SUMMARY:Vilnius JUG #1
+DESCRIPTION:Venue: Būsi trečias\nRegistration: http://vilniusjug1.eventbr
+ ite.com
+LOCATION:Būsi trečias
+URL:http://vilniusjug1.eventbrite.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
