@@ -1,0 +1,41 @@
+# Rebuilds feed.xml (RSS) and events.ics (calendar) whenever events change,
+# and commits them back to master so GitHub Pages serves the fresh files.
+
+name: Build feeds
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - data/events.js
+      - scripts/build-feeds.js
+      - .github/workflows/feeds.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build feeds
+        run: node scripts/build-feeds.js
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml events.ics
+          if git diff --cached --quiet; then
+            echo "Feeds are already up to date"
+          else
+            git commit -m "Update RSS and calendar feeds"
+            git push
+          fi
