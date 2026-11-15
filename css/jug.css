@@ -55,8 +55,35 @@ header p {
   padding: 6px 8px;
 }
 
+.events tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+/* Keep headers, venue and registration on one line; talks take the rest */
+.events th,
+.events td:not(.talks) {
+  white-space: nowrap;
+}
+
 .events .icon {
   width: 40px;
+}
+
+/* Talks: title with the speaker's name below it */
+
+.events .talks {
+  text-align: left;
+}
+
+.talk + .talk {
+  margin-top: 8px;
+}
+
+.speaker {
+  display: block;
+  color: #666;
+  font-size: 0.9em;
+  font-weight: normal;
 }
 
 /* Upcoming events */
@@ -124,15 +151,15 @@ footer {
     display: grid;
     grid-template-columns: 40px 1fr;
     padding: 8px 0;
-    border-bottom: 1px solid #ddd;
     text-align: left;
   }
 
   .events td {
     padding: 2px 8px;
+    white-space: normal;
   }
 
   .events .icon {
-    grid-row: span 3;
+    grid-row: span 4;
   }
 }

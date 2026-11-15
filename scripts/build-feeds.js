@@ -48,10 +48,15 @@ function link(event) {
   return (event.registration && event.registration.url) || SITE_URL;
 }
 
+// A talk's author is either one name or an array of names
+function speakers(talk) {
+  return [].concat(talk.author || []).join(', ');
+}
+
 // Plain-text description: talks, venue and registration link
 function description(event) {
   const lines = (event.talks || []).map(talk =>
-    talk.author ? talk.author + ': ' + talk.title : talk.title);
+    talk.author ? speakers(talk) + ': ' + talk.title : talk.title);
 
   if (event.venue && event.venue.title) {
     lines.push('Venue: ' + event.venue.title);
