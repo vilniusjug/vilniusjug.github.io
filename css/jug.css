@@ -24,9 +24,9 @@ header p {
   margin: 24px auto 0;
 }
 
-/* Updates (how to get notified) */
+/* Callout boxes (get notified, give a talk) */
 
-.updates {
+.callout {
   max-width: 600px;
   margin: 0 auto 32px;
   padding: 16px;
@@ -34,12 +34,12 @@ header p {
   border-radius: 8px;
 }
 
-.updates h2 {
+.callout h2 {
   margin-top: 0;
   font-size: 1.2em;
 }
 
-.updates p {
+.callout p {
   margin-bottom: 0;
 }
 
