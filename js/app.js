@@ -38,6 +38,11 @@ app.controller('EventsController', function ($scope) {
 
   $scope.isUpcoming = isUpcoming;
 
+  // A talk's author is either one name or an array of names
+  $scope.speakers = function(talk) {
+    return [].concat(talk.author || []).join(', ');
+  };
+
   $scope.select = function(group) {
     $scope.selected = group;
   };
